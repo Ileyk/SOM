@@ -1,0 +1,1194 @@
+www.astro.unige.ch/integral2019/conference-program-485-<span style="font-size:13px">09:45 (15 min) Giulia Mantovani ** <a href="javascript:jchange('jdiv30');">NEW SCIENCE OPPORTUNITIES USING STRATOSPHERIC BALLOON</a> (S)</span>
+www.astro.unige.ch/integral2019/conference-program-486-
+www.astro.unige.ch/integral2019/conference-program:487:<div id="jdiv30" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">HEMERA is a new research infrastructure funded by the Horizon 2020 framework Programme of the European Union. It will make existing balloon facilities of Centre National d'Etudes Spatiales (CNES) and Swedish Space Corporation (SSC) available to all scientific teams in the European Union and associated states. This talk will give an overview of the project and the available opportunities for cost free stratospheric balloon flights that HEMERA can offer you.</span></span></div>
+www.astro.unige.ch/integral2019/conference-program-488-<br />
+www.astro.unige.ch/integral2019/conference-program-489-<span style="font-size:13px">10:00 (15 min) Vincent Tatischeff ** <a href="javascript:jchange('jdiv31');">From e-ASTROGAM to an All-Sky Gamma-ray Imager</a> (S)</span>
+--
+--
+www.astro.unige.ch/integral2019/conference-program-516-<span style="font-size:13px">11:30 (15 min) Hsiang Kuang Chang ** <a href="javascript:jchange('jdiv35');">Concept study of a small Compton polarimeter to fly on a cubesat</a> (S)</span>
+www.astro.unige.ch/integral2019/conference-program-517-
+www.astro.unige.ch/integral2019/conference-program:518:<div id="jdiv35" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">Application of cubesats in astronomical observations has been getting more and more mature in recent years. Here we report a concept study of a small Compton polarimeter to fly on a cubesat for observing polarization of soft gamma-rays from a black-hole X-ray binary, Cygnus X-1. Polarization states provide very useful diagnostics on the emission mechanism and the origin of those gamma rays. In our study, we conducted Monte Carlo simulations to decide the basic design of this small polarimeter. Silicon detectors and cerium bromide scintillators were employed in this study. We estimated its on-axis effective area at different energies and its data telemetry requirement when flying in a low earth orbit. Based on this study, we will proceed to have a more realistic design and look for opportunities of a cubesat space mission.</span></span></div>
+www.astro.unige.ch/integral2019/conference-program-519-<br />
+www.astro.unige.ch/integral2019/conference-program-520-<span style="font-size:13px">11:45 (15 min) Denis Bernard ** <a href="javascript:jchange('jdiv36');">Characterizing the performance of the MeV gamma-ray telescopes and polarimeters of the future.</a> (C)</span>
+--
+--
+www.astro.unige.ch/integral2019/conference-program-586-<span style="font-size:13px">17:10 (15 min) Andrzej Zdziarski ** <a href="javascript:jchange('jdiv47');">Disc truncation and relativistic effects in inner accretion flows in black-hole binaries</a> (C)</span>
+www.astro.unige.ch/integral2019/conference-program-587-
+www.astro.unige.ch/integral2019/conference-program:588:<div id="jdiv47" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">I will present a number of results related to the relative importance of relativistic effects in accreting flows onto black holes. In particular, I will review the current evidence for and against an accretion inner disc truncation in the hard spectral states of black-hole binaries. The spectral-fitting results of our group imply significantly truncated discs, similarly as inferred from soft X-ray lags. On the other hand, the popular lamppost geometry postulates the primary X-ray source to be located on the rotation axis of the black hole, with a number of published results giving the source location very close to the horizon. This results in most of the emitted photons crossing the horizon, which then requires a major increase of the accretion rate as inferred from the observed luminosity. Also, the implied large intrinsic lamppost luminosity results in runaway electron-positron pair production. We acknowledge funding from the European Union's Horizon 2020 Programme under the AHEAD project (grant agreement n. 654215).</span></span></div>
+www.astro.unige.ch/integral2019/conference-program-589-<br />
+www.astro.unige.ch/integral2019/conference-program-590-<span style="font-size:13px">17:25 (15 min) Floriane Cangemi ** <a href="javascript:jchange('jdiv48');">Long term spectral study of Cygnus X-1 using INTEGRAL</a> (C)</span>
+--
+--
+www.astro.unige.ch/integral2019/conference-program-590-<span style="font-size:13px">17:25 (15 min) Floriane Cangemi ** <a href="javascript:jchange('jdiv48');">Long term spectral study of Cygnus X-1 using INTEGRAL</a> (C)</span>
+www.astro.unige.ch/integral2019/conference-program-591-
+www.astro.unige.ch/integral2019/conference-program:592:<div id="jdiv48" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">Cygnus X-1 is one of the brightest black hole X-rays binary with measured hard X-rays polarisation. The study of the two canonical states and the energy dependency of the polarisation are a way to understand accretion and ejection processes. We present here a preliminary analysis of all data that have been taken with the INTEGRAL observatory since its launch in 2003 until 2018. We exploit the joint capability of the instruments JEM-X, IBIS, and SPI, to perform a detailed state-resolved analysis in the broad 5 Kev - 2 MeV. We classify the data in 3 spectral states (hard, soft and intermediate) of individual science windows in a model-independent way. We extract the 5-400 keV stacked spectra of JEM-X and ISGRI telescopes of the soft and hard states. We then extract high energy spectra (&gt;400 keV) in the two main states using SPI. To extract the Compton mode, we use a refined alternative method of extracting the Compton double events of the IBIS telescope. We detect a hard tail in both states. We then present study of the spectral properties of the broad band spectra based on a phenomenological model description that we have been successfully using in the past. Besides, the doube-layered IBIS detector allows us to use a Compton-mode analysis and study the polarisation properties of the hard tail in both states. We present results of this extended data base and eventually compare them to those previously reported in earlier studies. F. Cangemi, T. Beuchert, J. Rodriguez, V. Grinberg, P. Laurent, C. Gouiffes, J. Wilms</span></span></div>
+www.astro.unige.ch/integral2019/conference-program-593-<br />
+www.astro.unige.ch/integral2019/conference-program-594-<span style="font-size:13px">17:40 (15 min) Piotr Lubinski ** <a href="javascript:jchange('jdiv49');">Characteristic geometries of accretion in Cyg X-1 found with INTEGRAL</a> (C)</span>
+--
+--
+www.astro.unige.ch/integral2019/conference-program-594-<span style="font-size:13px">17:40 (15 min) Piotr Lubinski ** <a href="javascript:jchange('jdiv49');">Characteristic geometries of accretion in Cyg X-1 found with INTEGRAL</a> (C)</span>
+www.astro.unige.ch/integral2019/conference-program-595-
+www.astro.unige.ch/integral2019/conference-program:596:<div id="jdiv49" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">Thanks to seasonal pointed observations of the black hole binary Cyg X-1 carried over 15 years the INTEGRAL satellite collected the largest data set in the hard X-ray band for this source, exceeding 18 Ms of exposure time. We have analysed these data, complemented by data collected with other X-ray satellites and radio flux measured by AMI Large Array. To characterize the spectral and variability properties of the system for time scale of hours, we determined parameters such as the hard and soft X-ray flux, photon index and fractional variability. A high precision of the hard X-ray photon index GammaH determined with the INTEGRAL/ISGRI detector spectra in the 22--100 keV band allowed us to find that the GammaH distribution can be decomposed into four Gaussian peaks centered at 1.70, 1.83, 2.03 and 2.46. This result, interpreted within the Comptonization scenario as a dominant process responsible for the hard X-ray emission, leads to a conclusion that the hot plasma region in Cyg X-1 takes form of four specific geometries. A distinct character of each of these states is confirmed by different X-ray and radio variability patterns. In particular, the hardest spectral state shows no flux - photon index correlation typical for three other states, what can be interpreted as a lack of interaction between the plasma and accretion disk. An intrinsic GammaH distribution for this pure hard state is very narrow, indicating a well defined, stable limiting geometry, presumably a compact plasma region close to the black hole horizon. Our variability results in the hard X-ray band show an opposite behavior to the well-studied soft X-ray band, namely the fractional variability decreases with increasing spectral hardness, except for the hardest state showing an intermediate variability.</span></span></div>
+www.astro.unige.ch/integral2019/conference-program-597-<span style="font-size:13px"> </span></div>
+www.astro.unige.ch/integral2019/conference-program-598-
+--
+--
+www.astro.unige.ch/integral2019/conference-program-621-<div id="jdiv52" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">After almost two decades from the discovery of the first accreting millisecond X-ray pulsar (AMXP) SAX J1808.4-3658, the sample of accreting rapidly-rotating neutron stars harboured in low mass X-ray binary systems has increased in number up to 22. The extremely short spin periods shown by the accreting millisecond X-ray pulsars are the result of long-lasting mass transfer from low mass companion stars through an accretion disc onto a slow-rotating NS as predicted by the so-called "recycling scenario"". At the end of the mass transfer phase, a millisecond pulsar shining from the radio to the gamma-ray band, and powered by the rotation of its magnetic field, is expected to turn on. The close link shared by radio millisecond pulsars and AMXPs has been observationally confirmed by the transitional binary systems IGR J18245 2452 as well as by other transitional millisecond pulsars. Here I will discuss the temporal and spectral properties of the recently discovered AXMPs IGR J17379-3747 and IGR J17591-2342. Moreover, I will present the latest updates on the long-term orbital evolution of the intermittent AMXP SAX J1748.9-2021 obtained combining the updated set of ephemeris from its 2017 outburst with those of the previous outbursts. The orbital period derivative will be then discussed in terms of the possible evolutionary scenarios of the binary system."</span></span></div>
+www.astro.unige.ch/integral2019/conference-program-622-<br />
+www.astro.unige.ch/integral2019/conference-program:623:<span style="font-size:13px">09:55 (15 min) Simona Michela Mazzola ** <a href="javascript:jchange('jdiv53');">Study of cyclical behaviour in spectral states transition of NS-LMXB systems</a> (C)</span>
+www.astro.unige.ch/integral2019/conference-program-624-
+--
+www.astro.unige.ch/integral2019/conference-program-624-
+www.astro.unige.ch/integral2019/conference-program:625:<div id="jdiv53" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">Authors: S.M. Mazzola (Dipartimento di Fisica e Chimica, UNIPA), E. Bozzo (Department of Astronomy, UNIGE), R. Iaria (Dipartimento di Fisica e Chimica, UNIPA), C. Ferrigno (Department of Astronomy, UNIGE), T. Di Salvo (Dipartimento di Fisica e Chimica, UNIPA), A.F. Gambino (Dipartimento di Fisica e Chimica, UNIPA) Several low mass X-ray binary systems hosting a neutron star (NS-LMXBs) show, generally, two spectral states: the so-called soft state (SS) and hard state (HS). The spectral state of a NS-LMXB source moves from hard to soft (and vice-versa) over the time and the detection and recognition of transitional states is actually a challenging task. Recently, it was observed that some of these sources shows a hysteresis-like pattern in their hardness-intensity diagram (HID) and rms variability-intensity diagram (RID): the systems evolve from HS to SS and come back to the former state following a specific evolution track (Munoz-Darias et al. 2014). Since these sources seem to follow similar track, we can expect to recover the same patterns studying their spectral variability on long temporal baseline. Then, we used the INTEGRAL data collected in the last fifteen years to reproduce the HID for a sample of persistent NS-LMXBs. We extracted the broadband spectrum from several regions of the HID for each source in order to understand cyclical spectral variations (if present) and highlight the different spectral states which each source goes through. We investigated the spectral behaviour and we determined the average properties in HS, SS and in the transitional states (identified as hard-high and soft-low states) for each one. The obtained results encourage us to extend this study to all the persistent NS-LMXBs (about 30 sources) detected by INTEGRAL.</span></span></div>
+www.astro.unige.ch/integral2019/conference-program-626-<br />
+www.astro.unige.ch/integral2019/conference-program-627-<span style="font-size:13px">10:10 (15 min) Khaled Alizai ** <a href="javascript:jchange('jdiv54');">A catalog of long duration thermonuclear bursts observed with INTEGRAL</a> (C)</span>
+--
+--
+www.astro.unige.ch/integral2019/conference-program-631-<span style="font-size:13px">10:25 (15 min) Sergey Grebenev ** <a href="javascript:jchange('jdiv55');">New findings from the broad-band spectra of X-ray novae observed with INTEGRAL</a> (C)</span>
+www.astro.unige.ch/integral2019/conference-program-632-
+www.astro.unige.ch/integral2019/conference-program:633:<div id="jdiv55" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">We present observations of several X-ray novae in different spectral states carried out simultaneously in X-ray (INTEGRAL, SWIFT/XRT and BAT) and optical/infrared (OIR) (SWIFT/UVOT, RTT-150) bands. We show that in all the cases a bulk of the observed OIR emission was determined by extension of the power-law spectral component responsible for the hard X-rays. A contribution of the outer region of an accretion disc, even taking into account X-ray heating of its surface, is very moderate during the high state of the sources (when a soft black-body component dominates in their spectra) and is negligible during their low (hard) state. This result suggests that a notable portion of their OIR emission is formed in the same region where the hard X-rays are produced. It may be Comptonized emission from the hot central region or synchrotron emission from the disc's corona or jets.</span></span></div>
+www.astro.unige.ch/integral2019/conference-program-634-<span style="font-size:13px"> </span></div>
+www.astro.unige.ch/integral2019/conference-program-635-
+--
+--
+www.astro.unige.ch/integral2019/conference-program-654-<span style="font-size:13px">11:40 (15 min) Alexander Lutovinov ** <a href="javascript:jchange('jdiv58');">Accreted highly magnetized neutron stars: recent progress</a> (C)</span>
+www.astro.unige.ch/integral2019/conference-program-655-
+www.astro.unige.ch/integral2019/conference-program:656:<div id="jdiv58" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">We present a review of current results of studies of transient highly magnetized neutron stars accreting in a broad range of rates - from ultra-high rates, in which the radiation characteristics are determined by the physical properties and geometry of the accretion flows, to super-low ones, in which the radiation is associated with the cooling of a neutron star. Using data from NuSTAR, INTEGRAL, Swift, Chandra and XMM-Newton several dozen X-ray pulsars were studied in different states that allowed us to discover a propeller effect for several systems and, at the same time, to reveal an unexpected quasi-stable state for other systems associated with the accretion from cold (non-ionised) disc. We argue that a transition to one or another state determines by a combination of the rotation frequency and magnetic field strength. Additionally, a systematic investigation of X-ray pulsars in their quiescent states showed, that all systems can be roughly divided into two distinct groups: i) relatively bright objects (L~10^34 erg/s) and (hard) power-law spectra, and ii) fainter ones showing thermal spectra. The spectral and temporal characteristics of the registered emission and their evolution made it possible to obtain new estimates of the parameters of neutron stars and the properties of matter near them.</span></span></div>
+www.astro.unige.ch/integral2019/conference-program-657-<br />
+www.astro.unige.ch/integral2019/conference-program-658-<span style="font-size:13px">11:55 (15 min) Maica Clavel ** <a href="javascript:jchange('jdiv59');">NuSTAR search for HMXBs among the unidentified INTEGRAL sources</a> (C)</span>
+--
+--
+www.astro.unige.ch/integral2019/conference-program-670-<span style="font-size:13px">12:40 (15 min) Ilya Mereminskiy ** <a href="javascript:jchange('jdiv62');">Timing and spectral view on accretion disk trucation radius</a> (C)</span>
+www.astro.unige.ch/integral2019/conference-program-671-
+www.astro.unige.ch/integral2019/conference-program:672:<div id="jdiv62" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">The type-C QPOs, usually found during low-hard states of X-ray novae outbursts, are commonly associated with the Lense-Thirring precession of hot accretion flow inside the disc truncation radius, with QPO frequency dependent on compact object mass. Another method to measure the truncation radius rely on a spectral analysis, particularly on the shape of broadened iron line. Using outbursts of MAXI J1535+571 and GRS 1739-278 we show, that if both of these methods are correct, then unrealistically large mass of black hole is needed.</span></span></div>
+www.astro.unige.ch/integral2019/conference-program-673-<span style="font-size:13px"> </span></div>
+www.astro.unige.ch/integral2019/conference-program-674-
+--
+--
+www.astro.unige.ch/integral2019/node/133-485-<span style="font-size:13px">09:45 (15 min) Giulia Mantovani ** <a href="javascript:jchange('jdiv30');">NEW SCIENCE OPPORTUNITIES USING STRATOSPHERIC BALLOON</a> (S)</span>
+www.astro.unige.ch/integral2019/node/133-486-
+www.astro.unige.ch/integral2019/node/133:487:<div id="jdiv30" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">HEMERA is a new research infrastructure funded by the Horizon 2020 framework Programme of the European Union. It will make existing balloon facilities of Centre National d'Etudes Spatiales (CNES) and Swedish Space Corporation (SSC) available to all scientific teams in the European Union and associated states. This talk will give an overview of the project and the available opportunities for cost free stratospheric balloon flights that HEMERA can offer you.</span></span></div>
+www.astro.unige.ch/integral2019/node/133-488-<br />
+www.astro.unige.ch/integral2019/node/133-489-<span style="font-size:13px">10:00 (15 min) Vincent Tatischeff ** <a href="javascript:jchange('jdiv31');">From e-ASTROGAM to an All-Sky Gamma-ray Imager</a> (S)</span>
+--
+--
+www.astro.unige.ch/integral2019/node/133-516-<span style="font-size:13px">11:30 (15 min) Hsiang Kuang Chang ** <a href="javascript:jchange('jdiv35');">Concept study of a small Compton polarimeter to fly on a cubesat</a> (S)</span>
+www.astro.unige.ch/integral2019/node/133-517-
+www.astro.unige.ch/integral2019/node/133:518:<div id="jdiv35" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">Application of cubesats in astronomical observations has been getting more and more mature in recent years. Here we report a concept study of a small Compton polarimeter to fly on a cubesat for observing polarization of soft gamma-rays from a black-hole X-ray binary, Cygnus X-1. Polarization states provide very useful diagnostics on the emission mechanism and the origin of those gamma rays. In our study, we conducted Monte Carlo simulations to decide the basic design of this small polarimeter. Silicon detectors and cerium bromide scintillators were employed in this study. We estimated its on-axis effective area at different energies and its data telemetry requirement when flying in a low earth orbit. Based on this study, we will proceed to have a more realistic design and look for opportunities of a cubesat space mission.</span></span></div>
+www.astro.unige.ch/integral2019/node/133-519-<br />
+www.astro.unige.ch/integral2019/node/133-520-<span style="font-size:13px">11:45 (15 min) Denis Bernard ** <a href="javascript:jchange('jdiv36');">Characterizing the performance of the MeV gamma-ray telescopes and polarimeters of the future.</a> (C)</span>
+--
+--
+www.astro.unige.ch/integral2019/node/133-586-<span style="font-size:13px">17:10 (15 min) Andrzej Zdziarski ** <a href="javascript:jchange('jdiv47');">Disc truncation and relativistic effects in inner accretion flows in black-hole binaries</a> (C)</span>
+www.astro.unige.ch/integral2019/node/133-587-
+www.astro.unige.ch/integral2019/node/133:588:<div id="jdiv47" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">I will present a number of results related to the relative importance of relativistic effects in accreting flows onto black holes. In particular, I will review the current evidence for and against an accretion inner disc truncation in the hard spectral states of black-hole binaries. The spectral-fitting results of our group imply significantly truncated discs, similarly as inferred from soft X-ray lags. On the other hand, the popular lamppost geometry postulates the primary X-ray source to be located on the rotation axis of the black hole, with a number of published results giving the source location very close to the horizon. This results in most of the emitted photons crossing the horizon, which then requires a major increase of the accretion rate as inferred from the observed luminosity. Also, the implied large intrinsic lamppost luminosity results in runaway electron-positron pair production. We acknowledge funding from the European Union's Horizon 2020 Programme under the AHEAD project (grant agreement n. 654215).</span></span></div>
+www.astro.unige.ch/integral2019/node/133-589-<br />
+www.astro.unige.ch/integral2019/node/133-590-<span style="font-size:13px">17:25 (15 min) Floriane Cangemi ** <a href="javascript:jchange('jdiv48');">Long term spectral study of Cygnus X-1 using INTEGRAL</a> (C)</span>
+--
+--
+www.astro.unige.ch/integral2019/node/133-590-<span style="font-size:13px">17:25 (15 min) Floriane Cangemi ** <a href="javascript:jchange('jdiv48');">Long term spectral study of Cygnus X-1 using INTEGRAL</a> (C)</span>
+www.astro.unige.ch/integral2019/node/133-591-
+www.astro.unige.ch/integral2019/node/133:592:<div id="jdiv48" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">Cygnus X-1 is one of the brightest black hole X-rays binary with measured hard X-rays polarisation. The study of the two canonical states and the energy dependency of the polarisation are a way to understand accretion and ejection processes. We present here a preliminary analysis of all data that have been taken with the INTEGRAL observatory since its launch in 2003 until 2018. We exploit the joint capability of the instruments JEM-X, IBIS, and SPI, to perform a detailed state-resolved analysis in the broad 5 Kev - 2 MeV. We classify the data in 3 spectral states (hard, soft and intermediate) of individual science windows in a model-independent way. We extract the 5-400 keV stacked spectra of JEM-X and ISGRI telescopes of the soft and hard states. We then extract high energy spectra (&gt;400 keV) in the two main states using SPI. To extract the Compton mode, we use a refined alternative method of extracting the Compton double events of the IBIS telescope. We detect a hard tail in both states. We then present study of the spectral properties of the broad band spectra based on a phenomenological model description that we have been successfully using in the past. Besides, the doube-layered IBIS detector allows us to use a Compton-mode analysis and study the polarisation properties of the hard tail in both states. We present results of this extended data base and eventually compare them to those previously reported in earlier studies. F. Cangemi, T. Beuchert, J. Rodriguez, V. Grinberg, P. Laurent, C. Gouiffes, J. Wilms</span></span></div>
+www.astro.unige.ch/integral2019/node/133-593-<br />
+www.astro.unige.ch/integral2019/node/133-594-<span style="font-size:13px">17:40 (15 min) Piotr Lubinski ** <a href="javascript:jchange('jdiv49');">Characteristic geometries of accretion in Cyg X-1 found with INTEGRAL</a> (C)</span>
+--
+--
+www.astro.unige.ch/integral2019/node/133-594-<span style="font-size:13px">17:40 (15 min) Piotr Lubinski ** <a href="javascript:jchange('jdiv49');">Characteristic geometries of accretion in Cyg X-1 found with INTEGRAL</a> (C)</span>
+www.astro.unige.ch/integral2019/node/133-595-
+www.astro.unige.ch/integral2019/node/133:596:<div id="jdiv49" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">Thanks to seasonal pointed observations of the black hole binary Cyg X-1 carried over 15 years the INTEGRAL satellite collected the largest data set in the hard X-ray band for this source, exceeding 18 Ms of exposure time. We have analysed these data, complemented by data collected with other X-ray satellites and radio flux measured by AMI Large Array. To characterize the spectral and variability properties of the system for time scale of hours, we determined parameters such as the hard and soft X-ray flux, photon index and fractional variability. A high precision of the hard X-ray photon index GammaH determined with the INTEGRAL/ISGRI detector spectra in the 22--100 keV band allowed us to find that the GammaH distribution can be decomposed into four Gaussian peaks centered at 1.70, 1.83, 2.03 and 2.46. This result, interpreted within the Comptonization scenario as a dominant process responsible for the hard X-ray emission, leads to a conclusion that the hot plasma region in Cyg X-1 takes form of four specific geometries. A distinct character of each of these states is confirmed by different X-ray and radio variability patterns. In particular, the hardest spectral state shows no flux - photon index correlation typical for three other states, what can be interpreted as a lack of interaction between the plasma and accretion disk. An intrinsic GammaH distribution for this pure hard state is very narrow, indicating a well defined, stable limiting geometry, presumably a compact plasma region close to the black hole horizon. Our variability results in the hard X-ray band show an opposite behavior to the well-studied soft X-ray band, namely the fractional variability decreases with increasing spectral hardness, except for the hardest state showing an intermediate variability.</span></span></div>
+www.astro.unige.ch/integral2019/node/133-597-<span style="font-size:13px"> </span></div>
+www.astro.unige.ch/integral2019/node/133-598-
+--
+--
+www.astro.unige.ch/integral2019/node/133-621-<div id="jdiv52" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">After almost two decades from the discovery of the first accreting millisecond X-ray pulsar (AMXP) SAX J1808.4-3658, the sample of accreting rapidly-rotating neutron stars harboured in low mass X-ray binary systems has increased in number up to 22. The extremely short spin periods shown by the accreting millisecond X-ray pulsars are the result of long-lasting mass transfer from low mass companion stars through an accretion disc onto a slow-rotating NS as predicted by the so-called "recycling scenario"". At the end of the mass transfer phase, a millisecond pulsar shining from the radio to the gamma-ray band, and powered by the rotation of its magnetic field, is expected to turn on. The close link shared by radio millisecond pulsars and AMXPs has been observationally confirmed by the transitional binary systems IGR J18245 2452 as well as by other transitional millisecond pulsars. Here I will discuss the temporal and spectral properties of the recently discovered AXMPs IGR J17379-3747 and IGR J17591-2342. Moreover, I will present the latest updates on the long-term orbital evolution of the intermittent AMXP SAX J1748.9-2021 obtained combining the updated set of ephemeris from its 2017 outburst with those of the previous outbursts. The orbital period derivative will be then discussed in terms of the possible evolutionary scenarios of the binary system."</span></span></div>
+www.astro.unige.ch/integral2019/node/133-622-<br />
+www.astro.unige.ch/integral2019/node/133:623:<span style="font-size:13px">09:55 (15 min) Simona Michela Mazzola ** <a href="javascript:jchange('jdiv53');">Study of cyclical behaviour in spectral states transition of NS-LMXB systems</a> (C)</span>
+www.astro.unige.ch/integral2019/node/133-624-
+--
+www.astro.unige.ch/integral2019/node/133-624-
+www.astro.unige.ch/integral2019/node/133:625:<div id="jdiv53" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">Authors: S.M. Mazzola (Dipartimento di Fisica e Chimica, UNIPA), E. Bozzo (Department of Astronomy, UNIGE), R. Iaria (Dipartimento di Fisica e Chimica, UNIPA), C. Ferrigno (Department of Astronomy, UNIGE), T. Di Salvo (Dipartimento di Fisica e Chimica, UNIPA), A.F. Gambino (Dipartimento di Fisica e Chimica, UNIPA) Several low mass X-ray binary systems hosting a neutron star (NS-LMXBs) show, generally, two spectral states: the so-called soft state (SS) and hard state (HS). The spectral state of a NS-LMXB source moves from hard to soft (and vice-versa) over the time and the detection and recognition of transitional states is actually a challenging task. Recently, it was observed that some of these sources shows a hysteresis-like pattern in their hardness-intensity diagram (HID) and rms variability-intensity diagram (RID): the systems evolve from HS to SS and come back to the former state following a specific evolution track (Munoz-Darias et al. 2014). Since these sources seem to follow similar track, we can expect to recover the same patterns studying their spectral variability on long temporal baseline. Then, we used the INTEGRAL data collected in the last fifteen years to reproduce the HID for a sample of persistent NS-LMXBs. We extracted the broadband spectrum from several regions of the HID for each source in order to understand cyclical spectral variations (if present) and highlight the different spectral states which each source goes through. We investigated the spectral behaviour and we determined the average properties in HS, SS and in the transitional states (identified as hard-high and soft-low states) for each one. The obtained results encourage us to extend this study to all the persistent NS-LMXBs (about 30 sources) detected by INTEGRAL.</span></span></div>
+www.astro.unige.ch/integral2019/node/133-626-<br />
+www.astro.unige.ch/integral2019/node/133-627-<span style="font-size:13px">10:10 (15 min) Khaled Alizai ** <a href="javascript:jchange('jdiv54');">A catalog of long duration thermonuclear bursts observed with INTEGRAL</a> (C)</span>
+--
+--
+www.astro.unige.ch/integral2019/node/133-631-<span style="font-size:13px">10:25 (15 min) Sergey Grebenev ** <a href="javascript:jchange('jdiv55');">New findings from the broad-band spectra of X-ray novae observed with INTEGRAL</a> (C)</span>
+www.astro.unige.ch/integral2019/node/133-632-
+www.astro.unige.ch/integral2019/node/133:633:<div id="jdiv55" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">We present observations of several X-ray novae in different spectral states carried out simultaneously in X-ray (INTEGRAL, SWIFT/XRT and BAT) and optical/infrared (OIR) (SWIFT/UVOT, RTT-150) bands. We show that in all the cases a bulk of the observed OIR emission was determined by extension of the power-law spectral component responsible for the hard X-rays. A contribution of the outer region of an accretion disc, even taking into account X-ray heating of its surface, is very moderate during the high state of the sources (when a soft black-body component dominates in their spectra) and is negligible during their low (hard) state. This result suggests that a notable portion of their OIR emission is formed in the same region where the hard X-rays are produced. It may be Comptonized emission from the hot central region or synchrotron emission from the disc's corona or jets.</span></span></div>
+www.astro.unige.ch/integral2019/node/133-634-<span style="font-size:13px"> </span></div>
+www.astro.unige.ch/integral2019/node/133-635-
+--
+--
+www.astro.unige.ch/integral2019/node/133-654-<span style="font-size:13px">11:40 (15 min) Alexander Lutovinov ** <a href="javascript:jchange('jdiv58');">Accreted highly magnetized neutron stars: recent progress</a> (C)</span>
+www.astro.unige.ch/integral2019/node/133-655-
+www.astro.unige.ch/integral2019/node/133:656:<div id="jdiv58" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">We present a review of current results of studies of transient highly magnetized neutron stars accreting in a broad range of rates - from ultra-high rates, in which the radiation characteristics are determined by the physical properties and geometry of the accretion flows, to super-low ones, in which the radiation is associated with the cooling of a neutron star. Using data from NuSTAR, INTEGRAL, Swift, Chandra and XMM-Newton several dozen X-ray pulsars were studied in different states that allowed us to discover a propeller effect for several systems and, at the same time, to reveal an unexpected quasi-stable state for other systems associated with the accretion from cold (non-ionised) disc. We argue that a transition to one or another state determines by a combination of the rotation frequency and magnetic field strength. Additionally, a systematic investigation of X-ray pulsars in their quiescent states showed, that all systems can be roughly divided into two distinct groups: i) relatively bright objects (L~10^34 erg/s) and (hard) power-law spectra, and ii) fainter ones showing thermal spectra. The spectral and temporal characteristics of the registered emission and their evolution made it possible to obtain new estimates of the parameters of neutron stars and the properties of matter near them.</span></span></div>
+www.astro.unige.ch/integral2019/node/133-657-<br />
+www.astro.unige.ch/integral2019/node/133-658-<span style="font-size:13px">11:55 (15 min) Maica Clavel ** <a href="javascript:jchange('jdiv59');">NuSTAR search for HMXBs among the unidentified INTEGRAL sources</a> (C)</span>
+--
+--
+www.astro.unige.ch/integral2019/node/133-670-<span style="font-size:13px">12:40 (15 min) Ilya Mereminskiy ** <a href="javascript:jchange('jdiv62');">Timing and spectral view on accretion disk trucation radius</a> (C)</span>
+www.astro.unige.ch/integral2019/node/133-671-
+www.astro.unige.ch/integral2019/node/133:672:<div id="jdiv62" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">The type-C QPOs, usually found during low-hard states of X-ray novae outbursts, are commonly associated with the Lense-Thirring precession of hot accretion flow inside the disc truncation radius, with QPO frequency dependent on compact object mass. Another method to measure the truncation radius rely on a spectral analysis, particularly on the shape of broadened iron line. Using outbursts of MAXI J1535+571 and GRS 1739-278 we show, that if both of these methods are correct, then unrealistically large mass of black hole is needed.</span></span></div>
+www.astro.unige.ch/integral2019/node/133-673-<span style="font-size:13px"> </span></div>
+www.astro.unige.ch/integral2019/node/133-674-
+--
+--
+www.astro.unige.ch/integral2019/node/152-313-<span style="font-size:13px">Alexandros Filothodoros ** <a href="javascript:jchange('jdiv8');">A long term hard X-ray analysis of GRS 1758-258 using INTEGRAL data.</a></span>
+www.astro.unige.ch/integral2019/node/152-314-
+www.astro.unige.ch/integral2019/node/152:315:<div id="jdiv8" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">We present preliminary results of our study of the black hole binary GRS 1758-258 emission, using all the publicly available INTEGRAL data, spanning a period of 16 years. To classify the spectral states of the source we applied a power-law model in order to estimate the 22 -- 100 keV flux and photon index for each spacecraft orbit. Using these results we have prepared four spectral sets, using ISGRI, JEMX and PICsIT spectra, corresponding to four ranges of the hard X-ray flux. These sets were analyzed with a hybrid Comptonization model, allowing to study a variation of several physical parameters of the system when its brightness changes in a broad range. The results are interpreted in a context of the physics of the persistent and transient black hole binaries.</span></span></div>
+www.astro.unige.ch/integral2019/node/152-316-<br />
+www.astro.unige.ch/integral2019/node/152-317-<span style="font-size:13px">Lingsong Ge ** <a href="javascript:jchange('jdiv9');">Bayesian Hierarchical Method of AGN X-ray Spectral Fitting</a></span>
+--
+--
+www.astro.unige.ch/integral2019/node/152-371-<div id="jdiv22" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">SVOM, the Space-based multi-band astronomical Variable Objects Monitor, is a Chinese-French satellite mission devoted to Gamma-Ray Bursts (GRBs), currently in Phase C, with a launch foreseen end of 2021. SVOM will study GRBs in a wide spectral range thanks to its 4 on-board as well as ground-based instruments. The instrument ECLAIRs onboard SVOM, a coded-mask soft gamma-ray camera observing in the 4-150 keV energy band with a 2 sr large field of view, will detect the GRBs of the mission. The ECLAIRs onboard Management and Scientific Trigger Unit (UGTS) analyzes the real-time data, in order to detect and localize the GRBs, to request the spacecraft slew for GRB follow-up observations by the other onboard instruments (MXT in X-rays and VT in the visible), and to alert the ground observers. This paper presents the ECLAIRs Trigger system.</span></span></div>
+www.astro.unige.ch/integral2019/node/152-372-<br />
+www.astro.unige.ch/integral2019/node/152:373:<span style="font-size:13px">Agnieszka Szelecka ** <a href="javascript:jchange('jdiv23');">Spectral states of NGC 4151 observed with INTEGRAL</a></span>
+www.astro.unige.ch/integral2019/node/152-374-
+--
+www.astro.unige.ch/integral2019/node/152-374-
+www.astro.unige.ch/integral2019/node/152:375:<div id="jdiv23" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">The brightest Seyfert 1 Galaxy NGC 4151 was observed by INTEGRAL in years 2003-2015, showing the hard X-ray emission varying in a broad range. Thanks to a relatively high quality of the INTEGRAL/ISGRI spectra, accompanied by spectra collected with several soft X-ray satellites, we analyzed properties of four flux states of the system with physical models including thermal Comptonization. Obtained results, together with various correlations, are discussed in a framework of the common and distinct physics of active galactic nuclei and black hole binaries.</span></span></div>
+www.astro.unige.ch/integral2019/node/152-376-<br />
+www.astro.unige.ch/integral2019/node/152-377-<span style="font-size:13px">Henri Triou ** <a href="javascript:jchange('jdiv24');">Scientific Performances of the ECLAIRs space telescope within the SVOM mission</a></span>
+--
+--
+www.astro.unige.ch/integral2019/participants-389-            LANL          </td>
+www.astro.unige.ch/integral2019/participants-390-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants:391:            United States          </td>
+www.astro.unige.ch/integral2019/participants-392-              </tr>
+www.astro.unige.ch/integral2019/participants-393-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants-845-            Los Alamos National Laboratory          </td>
+www.astro.unige.ch/integral2019/participants-846-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants:847:            United States          </td>
+www.astro.unige.ch/integral2019/participants-848-              </tr>
+www.astro.unige.ch/integral2019/participants-849-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants-1001-            US Naval Research Laboratory          </td>
+www.astro.unige.ch/integral2019/participants-1002-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants:1003:            United States          </td>
+www.astro.unige.ch/integral2019/participants-1004-              </tr>
+www.astro.unige.ch/integral2019/participants-1005-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants-1037-            University of Wisconsin Madison          </td>
+www.astro.unige.ch/integral2019/participants-1038-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants:1039:            United States          </td>
+www.astro.unige.ch/integral2019/participants-1040-              </tr>
+www.astro.unige.ch/integral2019/participants-1041-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants-1181-            NASA/GSFC          </td>
+www.astro.unige.ch/integral2019/participants-1182-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants:1183:            United States          </td>
+www.astro.unige.ch/integral2019/participants-1184-              </tr>
+www.astro.unige.ch/integral2019/participants-1185-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants-1277-            Los Alamos National Laboratory          </td>
+www.astro.unige.ch/integral2019/participants-1278-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants:1279:            United States          </td>
+www.astro.unige.ch/integral2019/participants-1280-              </tr>
+www.astro.unige.ch/integral2019/participants-1281-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants-1325-            JPL, Caltech          </td>
+www.astro.unige.ch/integral2019/participants-1326-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants:1327:            United States          </td>
+www.astro.unige.ch/integral2019/participants-1328-              </tr>
+www.astro.unige.ch/integral2019/participants-1329-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants-1409-            Pennsylvania State University          </td>
+www.astro.unige.ch/integral2019/participants-1410-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants:1411:            United States          </td>
+www.astro.unige.ch/integral2019/participants-1412-              </tr>
+www.astro.unige.ch/integral2019/participants-1413-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants-1421-            Johns Hopkins University Applied Physics Laboratory          </td>
+www.astro.unige.ch/integral2019/participants-1422-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants:1423:            United States          </td>
+www.astro.unige.ch/integral2019/participants-1424-              </tr>
+www.astro.unige.ch/integral2019/participants-1425-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants-1433-            NASA/GSFC and University of Maryland          </td>
+www.astro.unige.ch/integral2019/participants-1434-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants:1435:            United States          </td>
+www.astro.unige.ch/integral2019/participants-1436-              </tr>
+www.astro.unige.ch/integral2019/participants-1437-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants-1745-            University of Maryland, Baltimore County          </td>
+www.astro.unige.ch/integral2019/participants-1746-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants:1747:            United States          </td>
+www.astro.unige.ch/integral2019/participants-1748-              </tr>
+www.astro.unige.ch/integral2019/participants-1749-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants-1793-            UC Berkeley/Space Sciences Laboratory          </td>
+www.astro.unige.ch/integral2019/participants-1794-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants:1795:            United States          </td>
+www.astro.unige.ch/integral2019/participants-1796-              </tr>
+www.astro.unige.ch/integral2019/participants-1797-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants-1925-            University of Alabama in Huntsville          </td>
+www.astro.unige.ch/integral2019/participants-1926-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants:1927:            United States          </td>
+www.astro.unige.ch/integral2019/participants-1928-              </tr>
+www.astro.unige.ch/integral2019/participants-1929-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants-2069-            UC Berkeley          </td>
+www.astro.unige.ch/integral2019/participants-2070-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants:2071:            United States          </td>
+www.astro.unige.ch/integral2019/participants-2072-              </tr>
+www.astro.unige.ch/integral2019/participants-2073-      </tbody>
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1901-            University of Wisconsin Madison          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1902-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc:1903:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1904-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1905-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1913-            Pennsylvania State University          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1914-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc:1915:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1916-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1917-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1925-            US Naval Research Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1926-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc:1927:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1928-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1929-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1937-            NASA/GSFC          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1938-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc:1939:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1940-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1941-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1949-            NASA/GSFC and University of Maryland          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1950-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc:1951:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1952-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1953-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1961-            JPL, Caltech          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1962-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc:1963:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1964-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1965-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1973-            LANL          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1974-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc:1975:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1976-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1977-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1985-            Johns Hopkins University Applied Physics Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1986-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc:1987:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1988-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1989-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1997-            UC Berkeley          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-1998-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc:1999:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-2000-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-2001-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-2009-            University of Alabama in Huntsville          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-2010-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc:2011:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-2012-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-2013-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-2021-            Los Alamos National Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-2022-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc:2023:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-2024-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-2025-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-2033-            Los Alamos National Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-2034-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc:2035:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-2036-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-2037-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-2045-            UC Berkeley/Space Sciences Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-2046-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc:2047:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-2048-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-2049-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-2057-            University of Maryland, Baltimore County          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-2058-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc:2059:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-2060-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=asc-2061-          <tr class="odd views-row-last">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-305-            University of Wisconsin Madison          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-306-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc:307:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-308-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-309-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-317-            Pennsylvania State University          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-318-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc:319:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-320-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-321-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-329-            US Naval Research Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-330-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc:331:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-332-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-333-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-341-            NASA/GSFC          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-342-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc:343:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-344-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-345-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-353-            NASA/GSFC and University of Maryland          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-354-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc:355:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-356-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-357-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-365-            JPL, Caltech          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-366-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc:367:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-368-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-369-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-377-            LANL          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-378-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc:379:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-380-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-381-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-389-            Johns Hopkins University Applied Physics Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-390-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc:391:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-392-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-393-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-401-            UC Berkeley          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-402-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc:403:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-404-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-405-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-413-            University of Alabama in Huntsville          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-414-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc:415:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-416-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-417-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-425-            Los Alamos National Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-426-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc:427:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-428-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-429-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-437-            Los Alamos National Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-438-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc:439:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-440-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-441-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-449-            UC Berkeley/Space Sciences Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-450-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc:451:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-452-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-453-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-461-            University of Maryland, Baltimore County          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-462-                  <td class="views-field views-field-field-country active" >
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc:463:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-464-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_country&sort=desc-465-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-389-            LANL          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-390-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc:391:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-392-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-393-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-845-            Los Alamos National Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-846-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc:847:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-848-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-849-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1001-            US Naval Research Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1002-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc:1003:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1004-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1005-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1037-            University of Wisconsin Madison          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1038-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc:1039:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1040-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1041-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1181-            NASA/GSFC          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1182-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc:1183:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1184-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1185-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1277-            Los Alamos National Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1278-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc:1279:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1280-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1281-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1325-            JPL, Caltech          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1326-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc:1327:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1328-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1329-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1409-            Pennsylvania State University          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1410-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc:1411:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1412-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1413-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1421-            Johns Hopkins University Applied Physics Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1422-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc:1423:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1424-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1425-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1433-            NASA/GSFC and University of Maryland          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1434-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc:1435:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1436-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1437-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1745-            University of Maryland, Baltimore County          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1746-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc:1747:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1748-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1749-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1793-            UC Berkeley/Space Sciences Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1794-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc:1795:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1796-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1797-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1925-            University of Alabama in Huntsville          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1926-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc:1927:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1928-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-1929-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-2069-            UC Berkeley          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-2070-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc:2071:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-2072-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=asc-2073-      </tbody>
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-293-            UC Berkeley          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-294-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc:295:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-296-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-297-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-437-            University of Alabama in Huntsville          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-438-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc:439:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-440-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-441-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-569-            UC Berkeley/Space Sciences Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-570-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc:571:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-572-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-573-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-617-            University of Maryland, Baltimore County          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-618-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc:619:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-620-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-621-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-929-            NASA/GSFC and University of Maryland          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-930-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc:931:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-932-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-933-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-941-            Johns Hopkins University Applied Physics Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-942-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc:943:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-944-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-945-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-953-            Pennsylvania State University          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-954-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc:955:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-956-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-957-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1037-            JPL, Caltech          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1038-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc:1039:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1040-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1041-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1085-            Los Alamos National Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1086-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc:1087:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1088-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1089-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1181-            NASA/GSFC          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1182-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc:1183:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1184-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1185-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1325-            University of Wisconsin Madison          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1326-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc:1327:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1328-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1329-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1361-            US Naval Research Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1362-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc:1363:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1364-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1365-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1517-            Los Alamos National Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1518-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc:1519:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1520-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1521-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1973-            LANL          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1974-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc:1975:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1976-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_last_name_1&sort=desc-1977-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-389-            NASA/GSFC and University of Maryland          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-390-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc:391:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-392-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-393-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-521-            UC Berkeley          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-522-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc:523:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-524-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-525-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-665-            NASA/GSFC          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-666-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc:667:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-668-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-669-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-689-            Los Alamos National Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-690-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc:691:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-692-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-693-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1133-            US Naval Research Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1134-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc:1135:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1136-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1137-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1241-            UC Berkeley/Space Sciences Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1242-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc:1243:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1244-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1245-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1253-            Los Alamos National Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1254-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc:1255:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1256-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1257-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1277-            University of Wisconsin Madison          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1278-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc:1279:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1280-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1281-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1577-            LANL          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1578-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc:1579:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1580-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1581-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1589-            University of Alabama in Huntsville          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1590-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc:1591:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1592-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1593-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1625-            Pennsylvania State University          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1626-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc:1627:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1628-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1629-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1709-            Johns Hopkins University Applied Physics Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1710-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc:1711:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1712-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1713-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1889-            University of Maryland, Baltimore County          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1890-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc:1891:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1892-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-1893-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-2033-            JPL, Caltech          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-2034-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc:2035:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-2036-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=asc-2037-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-329-            JPL, Caltech          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-330-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc:331:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-332-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-333-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-473-            University of Maryland, Baltimore County          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-474-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc:475:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-476-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-477-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-653-            Johns Hopkins University Applied Physics Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-654-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc:655:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-656-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-657-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-737-            LANL          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-738-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc:739:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-740-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-741-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-749-            University of Alabama in Huntsville          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-750-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc:751:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-752-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-753-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-785-            Pennsylvania State University          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-786-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc:787:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-788-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-789-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1085-            University of Wisconsin Madison          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1086-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc:1087:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1088-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1089-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1109-            Los Alamos National Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1110-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc:1111:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1112-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1113-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1121-            UC Berkeley/Space Sciences Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1122-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc:1123:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1124-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1125-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1229-            US Naval Research Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1230-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc:1231:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1232-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1233-          <tr class="even">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1673-            Los Alamos National Laboratory          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1674-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc:1675:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1676-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1677-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1697-            NASA/GSFC          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1698-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc:1699:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1700-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1701-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1841-            UC Berkeley          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1842-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc:1843:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1844-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1845-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1961-            NASA/GSFC and University of Maryland          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1962-                  <td class="views-field views-field-field-country" >
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc:1963:            United States          </td>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1964-              </tr>
+www.astro.unige.ch/integral2019/participants?order=field_name_and_surname&sort=desc-1965-          <tr class="odd">
+--
+--
+www.astro.unige.ch/integral2019/posters-313-<span style="font-size:13px">Alexandros Filothodoros ** <a href="javascript:jchange('jdiv8');">A long term hard X-ray analysis of GRS 1758-258 using INTEGRAL data.</a></span>
+www.astro.unige.ch/integral2019/posters-314-
+www.astro.unige.ch/integral2019/posters:315:<div id="jdiv8" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">We present preliminary results of our study of the black hole binary GRS 1758-258 emission, using all the publicly available INTEGRAL data, spanning a period of 16 years. To classify the spectral states of the source we applied a power-law model in order to estimate the 22 -- 100 keV flux and photon index for each spacecraft orbit. Using these results we have prepared four spectral sets, using ISGRI, JEMX and PICsIT spectra, corresponding to four ranges of the hard X-ray flux. These sets were analyzed with a hybrid Comptonization model, allowing to study a variation of several physical parameters of the system when its brightness changes in a broad range. The results are interpreted in a context of the physics of the persistent and transient black hole binaries.</span></span></div>
+www.astro.unige.ch/integral2019/posters-316-<br />
+www.astro.unige.ch/integral2019/posters-317-<span style="font-size:13px">Lingsong Ge ** <a href="javascript:jchange('jdiv9');">Bayesian Hierarchical Method of AGN X-ray Spectral Fitting</a></span>
+--
+--
+www.astro.unige.ch/integral2019/posters-371-<div id="jdiv22" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">SVOM, the Space-based multi-band astronomical Variable Objects Monitor, is a Chinese-French satellite mission devoted to Gamma-Ray Bursts (GRBs), currently in Phase C, with a launch foreseen end of 2021. SVOM will study GRBs in a wide spectral range thanks to its 4 on-board as well as ground-based instruments. The instrument ECLAIRs onboard SVOM, a coded-mask soft gamma-ray camera observing in the 4-150 keV energy band with a 2 sr large field of view, will detect the GRBs of the mission. The ECLAIRs onboard Management and Scientific Trigger Unit (UGTS) analyzes the real-time data, in order to detect and localize the GRBs, to request the spacecraft slew for GRB follow-up observations by the other onboard instruments (MXT in X-rays and VT in the visible), and to alert the ground observers. This paper presents the ECLAIRs Trigger system.</span></span></div>
+www.astro.unige.ch/integral2019/posters-372-<br />
+www.astro.unige.ch/integral2019/posters:373:<span style="font-size:13px">Agnieszka Szelecka ** <a href="javascript:jchange('jdiv23');">Spectral states of NGC 4151 observed with INTEGRAL</a></span>
+www.astro.unige.ch/integral2019/posters-374-
+--
+www.astro.unige.ch/integral2019/posters-374-
+www.astro.unige.ch/integral2019/posters:375:<div id="jdiv23" style="display: none; width: 850px; text-align: justify;"><span style="font-size:13px"><span style="font-size: 13px;">The brightest Seyfert 1 Galaxy NGC 4151 was observed by INTEGRAL in years 2003-2015, showing the hard X-ray emission varying in a broad range. Thanks to a relatively high quality of the INTEGRAL/ISGRI spectra, accompanied by spectra collected with several soft X-ray satellites, we analyzed properties of four flux states of the system with physical models including thermal Comptonization. Obtained results, together with various correlations, are discussed in a framework of the common and distinct physics of active galactic nuclei and black hole binaries.</span></span></div>
+www.astro.unige.ch/integral2019/posters-376-<br />
+www.astro.unige.ch/integral2019/posters-377-<span style="font-size:13px">Henri Triou ** <a href="javascript:jchange('jdiv24');">Scientific Performances of the ECLAIRs space telescope within the SVOM mission</a></span>
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_lwno7ux8yKC3XH2TZhdo7RP4q4VcddV-J7RtPGt21Ok.js-5504-		// http://jqueryvalidation.org/email-method/
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_lwno7ux8yKC3XH2TZhdo7RP4q4VcddV-J7RtPGt21Ok.js-5505-		email: function( value, element ) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_lwno7ux8yKC3XH2TZhdo7RP4q4VcddV-J7RtPGt21Ok.js:5506:			// From http://www.whatwg.org/specs/web-apps/current-work/multipage/states-of-the-type-attribute.html#e-mail-state-%28type=email%29
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_lwno7ux8yKC3XH2TZhdo7RP4q4VcddV-J7RtPGt21Ok.js-5507-			// Retrieved 2014-01-14
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_lwno7ux8yKC3XH2TZhdo7RP4q4VcddV-J7RtPGt21Ok.js-5508-			// If you have a problem with this implementation, report a bug against the above spec
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_lwno7ux8yKC3XH2TZhdo7RP4q4VcddV-J7RtPGt21Ok.js-8146-		var i, j, item, ipos, iwidth, outsideView;
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_lwno7ux8yKC3XH2TZhdo7RP4q4VcddV-J7RtPGt21Ok.js-8147-
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_lwno7ux8yKC3XH2TZhdo7RP4q4VcddV-J7RtPGt21Ok.js:8148:		// clear states
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_lwno7ux8yKC3XH2TZhdo7RP4q4VcddV-J7RtPGt21Ok.js-8149-		for (i = 0; i < this.num.items; i++) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_lwno7ux8yKC3XH2TZhdo7RP4q4VcddV-J7RtPGt21Ok.js-8150-			this.dom.$items.eq(i).data('owl-item').active = false;
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-432-
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-433-/**
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js:434: * Enhancements to states.js.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-435- */
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-436-
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-439- * @see http://drupal.org/node/1149078
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-440- */
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js:441:Drupal.states.Dependent.comparisons['Array'] = function (reference, value) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-442-  // Make sure value is an array.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-443-  if (!(typeof(value) === 'object' && (value instanceof Array))) {
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-457- * Handle Object values.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-458- */
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js:459:Drupal.states.Dependent.comparisons['Object'] = function (reference, value) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-460-  /* Regular expressions are objects with a RegExp property. */
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-461-  if (reference.hasOwnProperty('RegExp')) {
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-471- * Focused condition.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-472- */
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js:473:Drupal.states.Trigger.states.focused = function(element) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-474-  element.bind('focus', function () {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-475-    element.trigger({ type: 'state:focused', value: true });
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-479-  });
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-480-
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js:481:  Drupal.states.postponed.push($.proxy(function () {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-482-    element.trigger({ type: 'state:focused', value: element.is(':focus') });
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-483-  }, window));
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-487- * Touched condition.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-488- */
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js:489:Drupal.states.Trigger.states.touched = {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-490-  'focus': function(e) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-491-    return (typeof e === 'undefined' && !this.is(':focus')) ? false : true;
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-494-
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-495-/**
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js:496: * New and existing states enhanced with configurable options.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js:497: * Event names of states with effects have the following structure:
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-498- * state:stateName-effectName.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_oDdnhRN6gBdJPnw2R8zE4N7VsY4KEaOnhBH4sHlU194.js-499- */
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-200-
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-201-/**
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:202: * The base States namespace.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-203- *
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-203- *
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:204: * Having the local states variable allows us to use the States namespace
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:205: * without having to always declare "Drupal.states".
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-206- */
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-206- */
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:207:var states = Drupal.states = {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-208-  // An array of functions that should be postponed.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-209-  postponed: []
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-211-
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-212-/**
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:213: * Attaches the states.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-214- */
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-214- */
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:215:Drupal.behaviors.states = {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-216-  attach: function (context, settings) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-217-    var $context = $(context);
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-216-  attach: function (context, settings) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-217-    var $context = $(context);
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:218:    for (var selector in settings.states) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:219:      for (var state in settings.states[selector]) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:220:        new states.Dependent({
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-221-          element: $context.find(selector),
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-221-          element: $context.find(selector),
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:222:          state: states.State.sanitize(state),
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:223:          constraints: settings.states[selector][state]
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-224-        });
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-225-      }
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-227-
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-228-    // Execute all postponed functions now.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:229:    while (states.postponed.length) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:230:      (states.postponed.shift())();
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-231-    }
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-232-  }
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-244- *     AND and OR clauses.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-245- */
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:246:states.Dependent = function (args) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-247-  $.extend(this, { values: {}, oldValue: null }, args);
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-248-
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-258- * found in this list, the === operator is used by default.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-259- */
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:260:states.Dependent.comparisons = {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-261-  'RegExp': function (reference, value) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-262-    return reference.test(value);
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-269-    // If "reference" is a number and "value" is a string, then cast reference
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-270-    // as a string before applying the strict comparison in compare(). Otherwise
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:271:    // numeric keys in the form's #states array fail to match string values
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-272-    // returned from jQuery's val().
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-273-    return (typeof value === 'string') ? compare(reference.toString(), value) : compare(reference, value);
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-275-};
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-276-
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:277:states.Dependent.prototype = {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-278-  /**
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-279-   * Initializes one of the elements this dependent depends on.
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-281-   * @param selector
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-282-   *   The CSS selector describing the dependee.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:283:   * @param dependeeStates
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:284:   *   The list of states that have to be monitored for tracking the
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-285-   *   dependee's compliance status.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-286-   */
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-285-   *   dependee's compliance status.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-286-   */
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:287:  initializeDependee: function (selector, dependeeStates) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-288-    var state;
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-289-
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-288-    var state;
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-289-
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:290:    // Cache for the states of this dependee.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-291-    this.values[selector] = {};
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-292-
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-291-    this.values[selector] = {};
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-292-
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:293:    for (var i in dependeeStates) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:294:      if (dependeeStates.hasOwnProperty(i)) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:295:        state = dependeeStates[i];
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-296-        // Make sure we're not initializing this selector/state combination twice.
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-296-        // Make sure we're not initializing this selector/state combination twice.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:297:        if ($.inArray(state, dependeeStates) === -1) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-298-          continue;
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-299-        }
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-299-        }
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-300-
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:301:        state = states.State.sanitize(state);
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-302-
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-303-        // Initialize the value of this state.
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-310-
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-311-        // Make sure the event we just bound ourselves to is actually fired.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:312:        new states.Trigger({ selector: selector, state: state });
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-313-      }
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-314-    }
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-330-  compare: function (reference, selector, state) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-331-    var value = this.values[selector][state.name];
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:332:    if (reference.constructor.name in states.Dependent.comparisons) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-333-      // Use a custom compare function for certain reference value types.
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-333-      // Use a custom compare function for certain reference value types.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:334:      return states.Dependent.comparisons[reference.constructor.name](reference, value);
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-335-    }
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-336-    else {
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-462-    if (state !== null) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-463-      // constraints is the actual constraints of an element to check for.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:464:      state = states.State.sanitize(state);
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-465-      return invert(this.compare(value, selector, state), state.invert);
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-466-    }
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-499-};
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-500-
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:501:states.Trigger = function (args) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-502-  $.extend(this, args);
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-503-
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-502-  $.extend(this, args);
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-503-
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:504:  if (this.state in states.Trigger.states) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-505-    this.element = $(this.selector);
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-506-
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-513-};
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-514-
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:515:states.Trigger.prototype = {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-516-  initialize: function () {
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-516-  initialize: function () {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:517:    var trigger = states.Trigger.states[this.state];
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-518-
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-519-    if (typeof trigger == 'function') {
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-546-    }, this));
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-547-
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:548:    states.postponed.push($.proxy(function () {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-549-      // Trigger the event once for initialization purposes.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-550-      this.element.trigger({ type: 'state:' + this.state, value: oldValue, oldValue: null });
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-554-
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-555-/**
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:556: * This list of states contains functions that are used to monitor the state
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-557- * of an element. Whenever an element depends on the state of another element,
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-558- * one of these trigger functions is added to the dependee so that the
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-559- * dependent element can be updated.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-560- */
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:561:states.Trigger.states = {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-562-  // 'empty' describes the state to be monitored
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-563-  empty: {
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-607- * A state object is used for describing the state and performing aliasing.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-608- */
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:609:states.State = function(state) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-610-  // We may need the original unresolved name later.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-611-  this.pristine = this.name = state;
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-620-
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-621-    // Replace the state with its normalized name.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:622:    if (this.name in states.State.aliases) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:623:      this.name = states.State.aliases[this.name];
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-624-    }
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-625-    else {
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-632- * Creates a new State object by sanitizing the passed value.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-633- */
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:634:states.State.sanitize = function (state) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:635:  if (state instanceof states.State) {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-636-    return state;
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-637-  }
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-637-  }
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-638-  else {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:639:    return new states.State(state);
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-640-  }
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-641-};
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-642-
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-643-/**
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:644: * This list of aliases is used to normalize states and associates negated names
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-645- * with their respective inverse state.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-646- */
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-645- * with their respective inverse state.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-646- */
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:647:states.State.aliases = {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-648-  'enabled': '!disabled',
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-649-  'invisible': '!visible',
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-658-};
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-659-
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:660:states.State.prototype = {
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-661-  invert: false,
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-662-
+--
+--
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-726-/**
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-727- * These are helper functions implementing addition "operators" and don't
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js:728: * implement any logic that is particular to states.
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-729- */
+www.astro.unige.ch/integral2019/sites/default/Public/js/js_XIX3_kxBlbiZq0f6Zc3cqEf7QjV7tmogBlv6bbfvPzw.js-730-
+--
+--
+www.astro.unige.ch/integral2019/user/register-52-<script type="text/javascript">
+www.astro.unige.ch/integral2019/user/register-53-<!--//--><![CDATA[//><!--
+www.astro.unige.ch/integral2019/user/register:54:jQuery.extend(Drupal.settings, {"basePath":"\/integral2019\/","pathPrefix":"","ajaxPageState":{"theme":"porto_sub","theme_token":"rDIVWmxvVw3PoYNEOJvKeM7ioa-o7H7j8y9yf3-nnJA","jquery_version":"1.10","js":{"sites\/all\/themes\/Porto\/js\/theme.js":1,"sites\/all\/themes\/Porto\/js\/theme.init.js":1,"sites\/all\/themes\/Porto\/js\/views\/view.home.js":1,"sites\/all\/modules\/clientside_validation\/plugins\/validator\/js\/blacklist.cv.js":1,"sites\/all\/modules\/clientside_validation\/clientside_validation_date\/plugins\/validator\/js\/dateformat.cv.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.datepicker.min.js":1,"modules\/locale\/locale.datepicker.js":1,"sites\/all\/modules\/date\/date_popup\/jquery.timeentry.pack.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/states.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"misc\/tabledrag.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/date\/date_popup\/date_popup.js":1,"sites\/all\/modules\/md_slider\/js\/jquery.touchwipe.js":1,"sites\/all\/modules\/md_slider\/js\/modernizr.js":1,"sites\/all\/modules\/md_slider\/js\/jquery-migrate-1.2.1.min.js":1,"sites\/all\/modules\/md_slider\/js\/jquery.easing.js":1,"sites\/all\/modules\/md_slider\/js\/md-slider.js":1,"0":1,"misc\/textarea.js":1,"misc\/tableheader.js":1,"misc\/progress.js":1,"modules\/file\/file.js":1,"sites\/all\/modules\/conditional_fields\/js\/conditional_fields.js":1,"sites\/all\/themes\/Porto\/vendor\/modernizr\/modernizr.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.appear\/jquery.appear.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.easing\/jquery.easing.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery-cookie\/jquery-cookie.js":1,"sites\/all\/themes\/Porto\/vendor\/bootstrap\/bootstrap.js":1,"sites\/all\/themes\/Porto\/vendor\/common\/common.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.validation\/jquery.validation.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.stellar\/jquery.stellar.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.easy-pie-chart\/jquery.easy-pie-chart.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.gmap\/jquery.gmap.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.lazyload\/jquery.lazyload.js":1,"sites\/all\/themes\/Porto\/vendor\/isotope\/jquery.isotope.js":1,"sites\/all\/themes\/Porto\/vendor\/owlcarousel\/owl.carousel.js":1,"sites\/all\/themes\/Porto\/vendor\/jflickrfeed\/jflickrfeed.js":1,"sites\/all\/themes\/Porto\/vendor\/magnific-popup\/jquery.magnific-popup.js":1,"sites\/all\/themes\/Porto\/vendor\/vide\/vide.js":1,"sites\/all\/themes\/Porto\/vendor\/circle-flip-slideshow\/js\/jquery.flipshow.js":1,"sites\/all\/themes\/Porto_sub\/js\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/jquery.timeentry.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/md_slider\/css\/animate.css":1,"sites\/all\/modules\/md_slider\/css\/md-slider.css":1,"0":1,"sites\/all\/modules\/md_slider\/css\/md-slider-style.css":1,"1":1,"\/\/fonts.googleapis.com\/css?family=Shadows+Into+Light|Open+Sans:400,600,700,800":1,"modules\/file\/file.css":1,"sites\/all\/themes\/Porto\/vendor\/owlcarousel\/owl.carousel.css":1,"sites\/all\/themes\/Porto\/vendor\/fontawesome\/css\/font-awesome-legacy.css":1,"sites\/all\/themes\/Porto\/vendor\/fontawesome\/css\/font-awesome.css":1,"sites\/all\/themes\/Porto\/vendor\/simple-line-icons\/css\/simple-line-icons.css":1,"sites\/all\/themes\/Porto\/vendor\/owlcarousel\/owl.theme.default.css":1,"sites\/all\/themes\/Porto\/vendor\/prettyPhoto\/css\/prettyPhoto.css":1,"sites\/all\/themes\/Porto\/vendor\/circle-flip-slideshow\/css\/component.css":1,"sites\/all\/themes\/Porto\/vendor\/magnific-popup\/magnific-popup.css":1,"sites\/all\/themes\/Porto\/vendor\/isotope\/jquery.isotope.css":1,"sites\/all\/themes\/Porto\/css\/theme.css":1,"sites\/all\/themes\/Porto\/css\/theme-elements.css":1,"sites\/all\/themes\/Porto\/css\/theme-animate.css":1,"sites\/all\/themes\/Porto\/css\/theme-blog.css":1,"sites\/all\/themes\/Porto\/css\/theme-shop.css":1,"sites\/all\/themes\/Porto\/css\/drupal-styles.css":1,"sites\/all\/themes\/Porto\/css\/less\/skin.less":1,"sites\/all\/themes\/Porto_sub\/css\/custom.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"lightbox2":{"rtl":"0","file_path":"\/integral2019\/(\\w\\w\/)public:\/","default_image":"\/integral2019\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false,"useragent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/71.0.3578.98 Safari\/537.36"},"jquery":{"ui":{"datepicker":{"isRTL":false,"firstDay":"1"}}},"datePopup":{"edit-field-arrival-date-und-0-value-datepicker-popup-0":{"func":"datepicker","settings":{"changeMonth":true,"changeYear":true,"autoPopUp":"focus","closeAtTop":false,"speed":"immediate","firstDay":1,"dateFormat":"mm\/dd\/yy","yearRange":"-3:+3","fromTo":false,"syncEndDate":false,"defaultDate":"0y"}},"edit-field-arrival-date-und-0-value-timeEntry-popup-1":{"func":"timeEntry","settings":{"show24Hours":true,"showSeconds":false,"timeSteps":[1,15,0],"spinnerImage":"","fromTo":false}},"edit-field-arrival-date-und-0-value2-datepicker-popup-0":{"func":"datepicker","settings":{"changeMonth":true,"changeYear":true,"autoPopUp":"focus","closeAtTop":false,"speed":"immediate","firstDay":1,"dateFormat":"mm\/dd\/yy","yearRange":"-3:+3","fromTo":false,"syncEndDate":false,"defaultDate":"0y"}},"edit-field-arrival-date-und-0-value2-timeEntry-popup-1":{"func":"timeEntry","settings":{"show24Hours":true,"showSeconds":false,"timeSteps":[1,15,0],"spinnerImage":"","fromTo":false}}},"inEffects":["bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn"],"outEffects":["bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut"],"md_slider_options_1":{"fullwidth":false,"transitionsSpeed":800,"width":"980","height":"192","enableDrag":false,"responsive":true,"pauseOnHover":false,"loop":false,"showLoading":false,"loadingPosition":"top","showArrow":false,"showBullet":false,"posBullet":"2","showThumb":false,"posThumb":"1","slideShowDelay":"8000","slideShow":false,"styleBorder":"0","styleShadow":"0","videoBox":false},"clientsideValidation":{"forms":{"search-block-form":{"rules":{"search_block_form":{"maxlength":128}},"messages":{"search_block_form":{"maxlength":"Search field has a maximum length of 128."}},"errorPlacement":1,"general":{"errorClass":"error","wrapper":"li","validateTabs":"","scrollTo":1,"scrollSpeed":1000,"disableHtml5Validation":1,"validateOnBlur":1,"validateOnBlurAlways":0,"validateOnKeyUp":1,"validateBeforeAjax":0,"validateOnSubmit":1,"showMessages":0,"errorElement":"label"}},"user-register-form":{"rules":{"field_salutation[und]":{"blacklist":["","_none"]},"field_name_and_surname[und][0][value]":{"maxlength":255,"required":true},"field_last_name[und][0][value]":{"maxlength":255,"required":true},"name":{"maxlength":60,"required":true},"mail":{"maxlength":254,"required":true},"field_institute[und][0][value]":{"maxlength":255,"required":true},"field_country[und]":{"blacklist":["","_none"]},"field_abstract_type[und][]":{"maxlength":2,"blacklist":["","_none"]},"field_abstract_title[und][0][value]":{"maxlength":255},"field_abstract_title[und][1][value]":{"maxlength":255},"field_dietary_restrictions[und][0][value]":{"maxlength":255},"field_arrival_date[und][0][value][date]":{"maxlength":30},"field_arrival_date[und][0][value][time]":{"maxlength":10},"field_arrival_date[und][0][value2][date]":{"maxlength":30,"dateFormat":{"format":"m\/d\/Y","splitter":"\/","daypos":1,"monthpos":0,"yearpos":2}},"field_arrival_date[und][0][value2][time]":{"maxlength":10},"field_arrival_date[und][0][value2]":{"required":true},"field_arrival_date[und][0]":{"required":true},"field_accompanying_person[und]":{"required":true},"field_accompanying_person_first_[und][0][value]":{"maxlength":255},"field_accompanying_person_last_n[und][0][value]":{"maxlength":255},"field_accompanying_person_dietar[und][0][value]":{"maxlength":255},"field_visa_letter[und]":{"required":true}},"messages":{"field_salutation[und]":{"blacklist":"Salutation field is required."},"field_name_and_surname[und][0][value]":{"maxlength":"First name field has a maximum length of 255.","required":"First name field is required."},"field_last_name[und][0][value]":{"maxlength":"Last name field has a maximum length of 255.","required":"Last name field is required."},"name":{"maxlength":"Username field has a maximum length of 60.","required":"Username field is required."},"mail":{"maxlength":"E-mail address field has a maximum length of 254.","required":"E-mail address field is required."},"field_institute[und][0][value]":{"maxlength":"Institute field has a maximum length of 255.","required":"Institute field is required."},"field_country[und]":{"blacklist":"Country field is required."},"field_abstract_type[und][]":{"maxlength":"Abstract type field has to have maximum 2 values.","blacklist":"Abstract type field is required."},"field_abstract_title[und][0][value]":{"maxlength":" field has a maximum length of 255."},"field_abstract_title[und][1][value]":{"maxlength":" field has a maximum length of 255."},"field_dietary_restrictions[und][0][value]":{"maxlength":"Dietary restrictions field has a maximum length of 255."},"field_arrival_date[und][0][value][date]":{"maxlength":"Date field has a maximum length of 30."},"field_arrival_date[und][0][value][time]":{"maxlength":"Time field has a maximum length of 10."},"field_arrival_date[und][0][value2][date]":{"maxlength":"Date field has a maximum length of 30.","dateFormat":"The value in to: is not a valid date."},"field_arrival_date[und][0][value2][time]":{"maxlength":"Time field has a maximum length of 10."},"field_arrival_date[und][0][value2]":{"required":"to: field is required."},"field_arrival_date[und][0]":{"required":"Arrival and departure dates field is required."},"field_accompanying_person[und]":{"required":"Accompanying person field is required."},"field_accompanying_person_first_[und][0][value]":{"maxlength":"Accompanying person first name field has a maximum length of 255."},"field_accompanying_person_last_n[und][0][value]":{"maxlength":"Accompanying person last name field has a maximum length of 255."},"field_accompanying_person_dietar[und][0][value]":{"maxlength":"Accompanying person dietary restrictions field has a maximum length of 255."},"field_visa_letter[und]":{"required":"Visa letter field is required."}},"errorPlacement":1,"general":{"errorClass":"error","wrapper":"li","validateTabs":"","scrollTo":1,"scrollSpeed":1000,"disableHtml5Validation":1,"validateOnBlur":1,"validateOnBlurAlways":0,"validateOnKeyUp":1,"validateBeforeAjax":0,"validateOnSubmit":1,"showMessages":0,"errorElement":"label"}}},"general":{"usexregxp":0,"months":{"January":1,"Jan":1,"February":2,"Feb":2,"March":3,"Mar":3,"April":4,"Apr":4,"May":5,"June":6,"Jun":6,"July":7,"Jul":7,"August":8,"Aug":8,"September":9,"Sep":9,"October":10,"Oct":10,"November":11,"Nov":11,"December":12,"Dec":12}},"groups":{"search-block-form":{},"user-register-form":{}}},"urlIsAjaxTrusted":{"\/integral2019\/user\/register":true,"\/integral2019\/file\/ajax\/field_presentation\/und\/form-RlJxQq9UPqCU5Gb4Nzr8xwq17NHC6yQL4_LuL4Pkoa8":true},"tableDrag":{"field-abstract-title-values":{"field_abstract_title-delta-order":[{"target":"field_abstract_title-delta-order","source":"field_abstract_title-delta-order","relationship":"sibling","action":"order","hidden":true,"limit":0}]},"field-abstract-values":{"field_abstract-delta-order":[{"target":"field_abstract-delta-order","source":"field_abstract-delta-order","relationship":"sibling","action":"order","hidden":true,"limit":0}]},"edit-field-presentation-und-table":{"edit-field-presentation-und-weight":[{"target":"edit-field-presentation-und-weight","source":"edit-field-presentation-und-weight","relationship":"sibling","action":"order","hidden":true,"limit":0}]}},"states":{"#edit-field-accompanying-person-first-":{"visible":{"[name=\u0022field_accompanying_person[und]\u0022]":{"value":"Yes"}}},"#edit-field-accompanying-person-last-n":{"visible":{"[name=\u0022field_accompanying_person[und]\u0022]":{"value":"Yes"}}},"#edit-field-accompanying-person-dietar":{"visible":{"[name=\u0022field_accompanying_person[und]\u0022]":{"value":"Yes"}}}},"file":{"elements":{"#edit-field-presentation-und-0-upload":"pdf,pptx,ppt"}},"ajax":{"edit-field-presentation-und-0-upload-button":{"wrapper":"edit-field-presentation-und-ajax-wrapper","effect":"fade","progress":{"type":"throbber","message":null},"event":"mousedown","keypress":true,"prevent":"click","url":"\/integral2019\/file\/ajax\/field_presentation\/und\/form-RlJxQq9UPqCU5Gb4Nzr8xwq17NHC6yQL4_LuL4Pkoa8","submit":{"_triggering_element_name":"field_presentation_und_0_upload_button","_triggering_element_value":"Upload"}}}});
+www.astro.unige.ch/integral2019/user/register-55-//--><!]]>
+www.astro.unige.ch/integral2019/user/register-56-</script>
+--
+--
+www.astro.unige.ch/integral2019/user/register-305-</div></div><div class="field-type-country field-name-field-country field-widget-options-select form-wrapper" id="edit-field-country"><div class="form-item form-type-select form-item-field-country-und">
+www.astro.unige.ch/integral2019/user/register-306-  <label for="edit-field-country-und">Country <span class="form-required" title="This field is required.">*</span></label>
+www.astro.unige.ch/integral2019/user/register:307: <select id="edit-field-country-und" name="field_country[und]" class="form-select required"><option value="_none">- Select a value -</option><option value="AF">Afghanistan</option><option value="AX">Aland Islands</option><option value="AL">Albania</option><option value="DZ">Algeria</option><option value="AS">American Samoa</option><option value="AD">Andorra</option><option value="AO">Angola</option><option value="AI">Anguilla</option><option value="AQ">Antarctica</option><option value="AG">Antigua and Barbuda</option><option value="AR">Argentina</option><option value="AM">Armenia</option><option value="AW">Aruba</option><option value="AU">Australia</option><option value="AT">Austria</option><option value="AZ">Azerbaijan</option><option value="BS">Bahamas</option><option value="BH">Bahrain</option><option value="BD">Bangladesh</option><option value="BB">Barbados</option><option value="BY">Belarus</option><option value="BE">Belgium</option><option value="BZ">Belize</option><option value="BJ">Benin</option><option value="BM">Bermuda</option><option value="BT">Bhutan</option><option value="BO">Bolivia</option><option value="BA">Bosnia and Herzegovina</option><option value="BW">Botswana</option><option value="BV">Bouvet Island</option><option value="BR">Brazil</option><option value="IO">British Indian Ocean Territory</option><option value="VG">British Virgin Islands</option><option value="BN">Brunei</option><option value="BG">Bulgaria</option><option value="BF">Burkina Faso</option><option value="BI">Burundi</option><option value="KH">Cambodia</option><option value="CM">Cameroon</option><option value="CA">Canada</option><option value="CV">Cape Verde</option><option value="BQ">Caribbean Netherlands</option><option value="KY">Cayman Islands</option><option value="CF">Central African Republic</option><option value="TD">Chad</option><option value="CL">Chile</option><option value="CN">China</option><option value="CX">Christmas Island</option><option value="CC">Cocos (Keeling) Islands</option><option value="CO">Colombia</option><option value="KM">Comoros</option><option value="CG">Congo (Brazzaville)</option><option value="CD">Congo (Kinshasa)</option><option value="CK">Cook Islands</option><option value="CR">Costa Rica</option><option value="HR">Croatia</option><option value="CU">Cuba</option><option value="CW">Curaçao</option><option value="CY">Cyprus</option><option value="CZ">Czech Republic</option><option value="DK">Denmark</option><option value="DJ">Djibouti</option><option value="DM">Dominica</option><option value="DO">Dominican Republic</option><option value="EC">Ecuador</option><option value="EG">Egypt</option><option value="SV">El Salvador</option><option value="GQ">Equatorial Guinea</option><option value="ER">Eritrea</option><option value="EE">Estonia</option><option value="ET">Ethiopia</option><option value="FK">Falkland Islands</option><option value="FO">Faroe Islands</option><option value="FJ">Fiji</option><option value="FI">Finland</option><option value="FR">France</option><option value="GF">French Guiana</option><option value="PF">French Polynesia</option><option value="TF">French Southern Territories</option><option value="GA">Gabon</option><option value="GM">Gambia</option><option value="GE">Georgia</option><option value="DE">Germany</option><option value="GH">Ghana</option><option value="GI">Gibraltar</option><option value="GR">Greece</option><option value="GL">Greenland</option><option value="GD">Grenada</option><option value="GP">Guadeloupe</option><option value="GU">Guam</option><option value="GT">Guatemala</option><option value="GG">Guernsey</option><option value="GN">Guinea</option><option value="GW">Guinea-Bissau</option><option value="GY">Guyana</option><option value="HT">Haiti</option><option value="HM">Heard Island and McDonald Islands</option><option value="HN">Honduras</option><option value="HK">Hong Kong S.A.R., China</option><option value="HU">Hungary</option><option value="IS">Iceland</option><option value="IN">India</option><option value="ID">Indonesia</option><option value="IR">Iran</option><option value="IQ">Iraq</option><option value="IE">Ireland</option><option value="IM">Isle of Man</option><option value="IL">Israel</option><option value="IT">Italy</option><option value="CI">Ivory Coast</option><option value="JM">Jamaica</option><option value="JP">Japan</option><option value="JE">Jersey</option><option value="JO">Jordan</option><option value="KZ">Kazakhstan</option><option value="KE">Kenya</option><option value="KI">Kiribati</option><option value="KW">Kuwait</option><option value="KG">Kyrgyzstan</option><option value="LA">Laos</option><option value="LV">Latvia</option><option value="LB">Lebanon</option><option value="LS">Lesotho</option><option value="LR">Liberia</option><option value="LY">Libya</option><option value="LI">Liechtenstein</option><option value="LT">Lithuania</option><option value="LU">Luxembourg</option><option value="MO">Macao S.A.R., China</option><option value="MK">Macedonia</option><option value="MG">Madagascar</option><option value="MW">Malawi</option><option value="MY">Malaysia</option><option value="MV">Maldives</option><option value="ML">Mali</option><option value="MT">Malta</option><option value="MH">Marshall Islands</option><option value="MQ">Martinique</option><option value="MR">Mauritania</option><option value="MU">Mauritius</option><option value="YT">Mayotte</option><option value="MX">Mexico</option><option value="FM">Micronesia</option><option value="MD">Moldova</option><option value="MC">Monaco</option><option value="MN">Mongolia</option><option value="ME">Montenegro</option><option value="MS">Montserrat</option><option value="MA">Morocco</option><option value="MZ">Mozambique</option><option value="MM">Myanmar</option><option value="NA">Namibia</option><option value="NR">Nauru</option><option value="NP">Nepal</option><option value="NL">Netherlands</option><option value="AN">Netherlands Antilles</option><option value="NC">New Caledonia</option><option value="NZ">New Zealand</option><option value="NI">Nicaragua</option><option value="NE">Niger</option><option value="NG">Nigeria</option><option value="NU">Niue</option><option value="NF">Norfolk Island</option><option value="MP">Northern Mariana Islands</option><option value="KP">North Korea</option><option value="NO">Norway</option><option value="OM">Oman</option><option value="PK">Pakistan</option><option value="PW">Palau</option><option value="PS">Palestinian Territory</option><option value="PA">Panama</option><option value="PG">Papua New Guinea</option><option value="PY">Paraguay</option><option value="PE">Peru</option><option value="PH">Philippines</option><option value="PN">Pitcairn</option><option value="PL">Poland</option><option value="PT">Portugal</option><option value="PR">Puerto Rico</option><option value="QA">Qatar</option><option value="RE">Reunion</option><option value="RO">Romania</option><option value="RU">Russia</option><option value="RW">Rwanda</option><option value="BL">Saint Barthélemy</option><option value="SH">Saint Helena</option><option value="KN">Saint Kitts and Nevis</option><option value="LC">Saint Lucia</option><option value="MF">Saint Martin (French part)</option><option value="PM">Saint Pierre and Miquelon</option><option value="VC">Saint Vincent and the Grenadines</option><option value="WS">Samoa</option><option value="SM">San Marino</option><option value="ST">Sao Tome and Principe</option><option value="SA">Saudi Arabia</option><option value="SN">Senegal</option><option value="RS">Serbia</option><option value="SC">Seychelles</option><option value="SL">Sierra Leone</option><option value="SG">Singapore</option><option value="SX">Sint Maarten</option><option value="SK">Slovakia</option><option value="SI">Slovenia</option><option value="SB">Solomon Islands</option><option value="SO">Somalia</option><option value="ZA">South Africa</option><option value="GS">South Georgia and the South Sandwich Islands</option><option value="KR">South Korea</option><option value="SS">South Sudan</option><option value="ES">Spain</option><option value="LK">Sri Lanka</option><option value="SD">Sudan</option><option value="SR">Suriname</option><option value="SJ">Svalbard and Jan Mayen</option><option value="SZ">Swaziland</option><option value="SE">Sweden</option><option value="CH">Switzerland</option><option value="SY">Syria</option><option value="TW">Taiwan</option><option value="TJ">Tajikistan</option><option value="TZ">Tanzania</option><option value="TH">Thailand</option><option value="TL">Timor-Leste</option><option value="TG">Togo</option><option value="TK">Tokelau</option><option value="TO">Tonga</option><option value="TT">Trinidad and Tobago</option><option value="TN">Tunisia</option><option value="TR">Turkey</option><option value="TM">Turkmenistan</option><option value="TC">Turks and Caicos Islands</option><option value="TV">Tuvalu</option><option value="VI">U.S. Virgin Islands</option><option value="UG">Uganda</option><option value="UA">Ukraine</option><option value="AE">United Arab Emirates</option><option value="GB">United Kingdom</option><option value="US">United States</option><option value="UM">United States Minor Outlying Islands</option><option value="UY">Uruguay</option><option value="UZ">Uzbekistan</option><option value="VU">Vanuatu</option><option value="VA">Vatican</option><option value="VE">Venezuela</option><option value="VN">Vietnam</option><option value="WF">Wallis and Futuna</option><option value="EH">Western Sahara</option><option value="YE">Yemen</option><option value="ZM">Zambia</option><option value="ZW">Zimbabwe</option></select>
+www.astro.unige.ch/integral2019/user/register-308-</div>
+www.astro.unige.ch/integral2019/user/register-309-</div><div class="field-type-list-text field-name-field-abstract-type field-widget-options-select form-wrapper" id="edit-field-abstract-type"><div class="form-item form-type-select form-item-field-abstract-type-und">
+--
+--
+www.astro.unige.ch/integral2019/user/register?destination=node%2F149-52-<script type="text/javascript">
+www.astro.unige.ch/integral2019/user/register?destination=node%2F149-53-<!--//--><![CDATA[//><!--
+www.astro.unige.ch/integral2019/user/register?destination=node%2F149:54:jQuery.extend(Drupal.settings, {"basePath":"\/integral2019\/","pathPrefix":"","ajaxPageState":{"theme":"porto_sub","theme_token":"igxDOuzi60nY_GIkYc0ZHOw3gP6Asspqq5PNqqsq_Qc","jquery_version":"1.10","js":{"sites\/all\/themes\/Porto\/js\/theme.js":1,"sites\/all\/themes\/Porto\/js\/theme.init.js":1,"sites\/all\/themes\/Porto\/js\/views\/view.home.js":1,"sites\/all\/modules\/clientside_validation\/plugins\/validator\/js\/blacklist.cv.js":1,"sites\/all\/modules\/clientside_validation\/clientside_validation_date\/plugins\/validator\/js\/dateformat.cv.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.datepicker.min.js":1,"modules\/locale\/locale.datepicker.js":1,"sites\/all\/modules\/date\/date_popup\/jquery.timeentry.pack.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/states.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"misc\/tabledrag.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/date\/date_popup\/date_popup.js":1,"sites\/all\/modules\/md_slider\/js\/jquery.touchwipe.js":1,"sites\/all\/modules\/md_slider\/js\/modernizr.js":1,"sites\/all\/modules\/md_slider\/js\/jquery-migrate-1.2.1.min.js":1,"sites\/all\/modules\/md_slider\/js\/jquery.easing.js":1,"sites\/all\/modules\/md_slider\/js\/md-slider.js":1,"0":1,"misc\/textarea.js":1,"misc\/tableheader.js":1,"misc\/progress.js":1,"modules\/file\/file.js":1,"sites\/all\/modules\/conditional_fields\/js\/conditional_fields.js":1,"sites\/all\/themes\/Porto\/vendor\/modernizr\/modernizr.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.appear\/jquery.appear.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.easing\/jquery.easing.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery-cookie\/jquery-cookie.js":1,"sites\/all\/themes\/Porto\/vendor\/bootstrap\/bootstrap.js":1,"sites\/all\/themes\/Porto\/vendor\/common\/common.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.validation\/jquery.validation.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.stellar\/jquery.stellar.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.easy-pie-chart\/jquery.easy-pie-chart.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.gmap\/jquery.gmap.js":1,"sites\/all\/themes\/Porto\/vendor\/jquery.lazyload\/jquery.lazyload.js":1,"sites\/all\/themes\/Porto\/vendor\/isotope\/jquery.isotope.js":1,"sites\/all\/themes\/Porto\/vendor\/owlcarousel\/owl.carousel.js":1,"sites\/all\/themes\/Porto\/vendor\/jflickrfeed\/jflickrfeed.js":1,"sites\/all\/themes\/Porto\/vendor\/magnific-popup\/jquery.magnific-popup.js":1,"sites\/all\/themes\/Porto\/vendor\/vide\/vide.js":1,"sites\/all\/themes\/Porto\/vendor\/circle-flip-slideshow\/js\/jquery.flipshow.js":1,"sites\/all\/themes\/Porto_sub\/js\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/jquery.timeentry.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/md_slider\/css\/animate.css":1,"sites\/all\/modules\/md_slider\/css\/md-slider.css":1,"0":1,"sites\/all\/modules\/md_slider\/css\/md-slider-style.css":1,"1":1,"\/\/fonts.googleapis.com\/css?family=Shadows+Into+Light|Open+Sans:400,600,700,800":1,"modules\/file\/file.css":1,"sites\/all\/themes\/Porto\/vendor\/owlcarousel\/owl.carousel.css":1,"sites\/all\/themes\/Porto\/vendor\/fontawesome\/css\/font-awesome-legacy.css":1,"sites\/all\/themes\/Porto\/vendor\/fontawesome\/css\/font-awesome.css":1,"sites\/all\/themes\/Porto\/vendor\/simple-line-icons\/css\/simple-line-icons.css":1,"sites\/all\/themes\/Porto\/vendor\/owlcarousel\/owl.theme.default.css":1,"sites\/all\/themes\/Porto\/vendor\/prettyPhoto\/css\/prettyPhoto.css":1,"sites\/all\/themes\/Porto\/vendor\/circle-flip-slideshow\/css\/component.css":1,"sites\/all\/themes\/Porto\/vendor\/magnific-popup\/magnific-popup.css":1,"sites\/all\/themes\/Porto\/vendor\/isotope\/jquery.isotope.css":1,"sites\/all\/themes\/Porto\/css\/theme.css":1,"sites\/all\/themes\/Porto\/css\/theme-elements.css":1,"sites\/all\/themes\/Porto\/css\/theme-animate.css":1,"sites\/all\/themes\/Porto\/css\/theme-blog.css":1,"sites\/all\/themes\/Porto\/css\/theme-shop.css":1,"sites\/all\/themes\/Porto\/css\/drupal-styles.css":1,"sites\/all\/themes\/Porto\/css\/less\/skin.less":1,"sites\/all\/themes\/Porto_sub\/css\/custom.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"lightbox2":{"rtl":"0","file_path":"\/integral2019\/(\\w\\w\/)public:\/","default_image":"\/integral2019\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false,"useragent":"Wget\/1.19.5 (darwin13.4.0)"},"jquery":{"ui":{"datepicker":{"isRTL":false,"firstDay":"1"}}},"datePopup":{"edit-field-arrival-date-und-0-value-datepicker-popup-0":{"func":"datepicker","settings":{"changeMonth":true,"changeYear":true,"autoPopUp":"focus","closeAtTop":false,"speed":"immediate","firstDay":1,"dateFormat":"mm\/dd\/yy","yearRange":"-3:+3","fromTo":false,"syncEndDate":false,"defaultDate":"0y"}},"edit-field-arrival-date-und-0-value-timeEntry-popup-1":{"func":"timeEntry","settings":{"show24Hours":true,"showSeconds":false,"timeSteps":[1,15,0],"spinnerImage":"","fromTo":false}},"edit-field-arrival-date-und-0-value2-datepicker-popup-0":{"func":"datepicker","settings":{"changeMonth":true,"changeYear":true,"autoPopUp":"focus","closeAtTop":false,"speed":"immediate","firstDay":1,"dateFormat":"mm\/dd\/yy","yearRange":"-3:+3","fromTo":false,"syncEndDate":false,"defaultDate":"0y"}},"edit-field-arrival-date-und-0-value2-timeEntry-popup-1":{"func":"timeEntry","settings":{"show24Hours":true,"showSeconds":false,"timeSteps":[1,15,0],"spinnerImage":"","fromTo":false}}},"inEffects":["bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn"],"outEffects":["bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut"],"md_slider_options_1":{"fullwidth":false,"transitionsSpeed":800,"width":"980","height":"192","enableDrag":false,"responsive":true,"pauseOnHover":false,"loop":false,"showLoading":false,"loadingPosition":"top","showArrow":false,"showBullet":false,"posBullet":"2","showThumb":false,"posThumb":"1","slideShowDelay":"8000","slideShow":false,"styleBorder":"0","styleShadow":"0","videoBox":false},"clientsideValidation":{"forms":{"search-block-form":{"rules":{"search_block_form":{"maxlength":128}},"messages":{"search_block_form":{"maxlength":"Search field has a maximum length of 128."}},"errorPlacement":1,"general":{"errorClass":"error","wrapper":"li","validateTabs":"","scrollTo":1,"scrollSpeed":1000,"disableHtml5Validation":1,"validateOnBlur":1,"validateOnBlurAlways":0,"validateOnKeyUp":1,"validateBeforeAjax":0,"validateOnSubmit":1,"showMessages":0,"errorElement":"label"}},"user-register-form":{"rules":{"field_salutation[und]":{"blacklist":["","_none"]},"field_name_and_surname[und][0][value]":{"maxlength":255,"required":true},"field_last_name[und][0][value]":{"maxlength":255,"required":true},"name":{"maxlength":60,"required":true},"mail":{"maxlength":254,"required":true},"field_institute[und][0][value]":{"maxlength":255,"required":true},"field_country[und]":{"blacklist":["","_none"]},"field_abstract_type[und][]":{"maxlength":2,"blacklist":["","_none"]},"field_abstract_title[und][0][value]":{"maxlength":255},"field_abstract_title[und][1][value]":{"maxlength":255},"field_dietary_restrictions[und][0][value]":{"maxlength":255},"field_arrival_date[und][0][value][date]":{"maxlength":30},"field_arrival_date[und][0][value][time]":{"maxlength":10},"field_arrival_date[und][0][value2][date]":{"maxlength":30,"dateFormat":{"format":"m\/d\/Y","splitter":"\/","daypos":1,"monthpos":0,"yearpos":2}},"field_arrival_date[und][0][value2][time]":{"maxlength":10},"field_arrival_date[und][0][value2]":{"required":true},"field_arrival_date[und][0]":{"required":true},"field_accompanying_person[und]":{"required":true},"field_accompanying_person_first_[und][0][value]":{"maxlength":255},"field_accompanying_person_last_n[und][0][value]":{"maxlength":255},"field_accompanying_person_dietar[und][0][value]":{"maxlength":255},"field_visa_letter[und]":{"required":true}},"messages":{"field_salutation[und]":{"blacklist":"Salutation field is required."},"field_name_and_surname[und][0][value]":{"maxlength":"First name field has a maximum length of 255.","required":"First name field is required."},"field_last_name[und][0][value]":{"maxlength":"Last name field has a maximum length of 255.","required":"Last name field is required."},"name":{"maxlength":"Username field has a maximum length of 60.","required":"Username field is required."},"mail":{"maxlength":"E-mail address field has a maximum length of 254.","required":"E-mail address field is required."},"field_institute[und][0][value]":{"maxlength":"Institute field has a maximum length of 255.","required":"Institute field is required."},"field_country[und]":{"blacklist":"Country field is required."},"field_abstract_type[und][]":{"maxlength":"Abstract type field has to have maximum 2 values.","blacklist":"Abstract type field is required."},"field_abstract_title[und][0][value]":{"maxlength":" field has a maximum length of 255."},"field_abstract_title[und][1][value]":{"maxlength":" field has a maximum length of 255."},"field_dietary_restrictions[und][0][value]":{"maxlength":"Dietary restrictions field has a maximum length of 255."},"field_arrival_date[und][0][value][date]":{"maxlength":"Date field has a maximum length of 30."},"field_arrival_date[und][0][value][time]":{"maxlength":"Time field has a maximum length of 10."},"field_arrival_date[und][0][value2][date]":{"maxlength":"Date field has a maximum length of 30.","dateFormat":"The value in to: is not a valid date."},"field_arrival_date[und][0][value2][time]":{"maxlength":"Time field has a maximum length of 10."},"field_arrival_date[und][0][value2]":{"required":"to: field is required."},"field_arrival_date[und][0]":{"required":"Arrival and departure dates field is required."},"field_accompanying_person[und]":{"required":"Accompanying person field is required."},"field_accompanying_person_first_[und][0][value]":{"maxlength":"Accompanying person first name field has a maximum length of 255."},"field_accompanying_person_last_n[und][0][value]":{"maxlength":"Accompanying person last name field has a maximum length of 255."},"field_accompanying_person_dietar[und][0][value]":{"maxlength":"Accompanying person dietary restrictions field has a maximum length of 255."},"field_visa_letter[und]":{"required":"Visa letter field is required."}},"errorPlacement":1,"general":{"errorClass":"error","wrapper":"li","validateTabs":"","scrollTo":1,"scrollSpeed":1000,"disableHtml5Validation":1,"validateOnBlur":1,"validateOnBlurAlways":0,"validateOnKeyUp":1,"validateBeforeAjax":0,"validateOnSubmit":1,"showMessages":0,"errorElement":"label"}}},"general":{"usexregxp":0,"months":{"January":1,"Jan":1,"February":2,"Feb":2,"March":3,"Mar":3,"April":4,"Apr":4,"May":5,"June":6,"Jun":6,"July":7,"Jul":7,"August":8,"Aug":8,"September":9,"Sep":9,"October":10,"Oct":10,"November":11,"Nov":11,"December":12,"Dec":12}},"groups":{"search-block-form":{},"user-register-form":{}}},"urlIsAjaxTrusted":{"\/integral2019\/user\/register?destination=node\/149":true,"\/integral2019\/file\/ajax\/field_presentation\/und\/form-KEeauEyMINvbW6gEV3yFGMwMKVRc23jBV1BQCyYnFb4":true},"tableDrag":{"field-abstract-title-values":{"field_abstract_title-delta-order":[{"target":"field_abstract_title-delta-order","source":"field_abstract_title-delta-order","relationship":"sibling","action":"order","hidden":true,"limit":0}]},"field-abstract-values":{"field_abstract-delta-order":[{"target":"field_abstract-delta-order","source":"field_abstract-delta-order","relationship":"sibling","action":"order","hidden":true,"limit":0}]},"edit-field-presentation-und-table":{"edit-field-presentation-und-weight":[{"target":"edit-field-presentation-und-weight","source":"edit-field-presentation-und-weight","relationship":"sibling","action":"order","hidden":true,"limit":0}]}},"states":{"#edit-field-accompanying-person-first-":{"visible":{"[name=\u0022field_accompanying_person[und]\u0022]":{"value":"Yes"}}},"#edit-field-accompanying-person-last-n":{"visible":{"[name=\u0022field_accompanying_person[und]\u0022]":{"value":"Yes"}}},"#edit-field-accompanying-person-dietar":{"visible":{"[name=\u0022field_accompanying_person[und]\u0022]":{"value":"Yes"}}}},"file":{"elements":{"#edit-field-presentation-und-0-upload":"pdf,pptx,ppt"}},"ajax":{"edit-field-presentation-und-0-upload-button":{"wrapper":"edit-field-presentation-und-ajax-wrapper","effect":"fade","progress":{"type":"throbber","message":null},"event":"mousedown","keypress":true,"prevent":"click","url":"\/integral2019\/file\/ajax\/field_presentation\/und\/form-KEeauEyMINvbW6gEV3yFGMwMKVRc23jBV1BQCyYnFb4","submit":{"_triggering_element_name":"field_presentation_und_0_upload_button","_triggering_element_value":"Upload"}}}});
+www.astro.unige.ch/integral2019/user/register?destination=node%2F149-55-//--><!]]>
+www.astro.unige.ch/integral2019/user/register?destination=node%2F149-56-</script>
+--
+--
+www.astro.unige.ch/integral2019/user/register?destination=node%2F149-305-</div></div><div class="field-type-country field-name-field-country field-widget-options-select form-wrapper" id="edit-field-country"><div class="form-item form-type-select form-item-field-country-und">
+www.astro.unige.ch/integral2019/user/register?destination=node%2F149-306-  <label for="edit-field-country-und">Country <span class="form-required" title="This field is required.">*</span></label>
+www.astro.unige.ch/integral2019/user/register?destination=node%2F149:307: <select id="edit-field-country-und" name="field_country[und]" class="form-select required"><option value="_none">- Select a value -</option><option value="AF">Afghanistan</option><option value="AX">Aland Islands</option><option value="AL">Albania</option><option value="DZ">Algeria</option><option value="AS">American Samoa</option><option value="AD">Andorra</option><option value="AO">Angola</option><option value="AI">Anguilla</option><option value="AQ">Antarctica</option><option value="AG">Antigua and Barbuda</option><option value="AR">Argentina</option><option value="AM">Armenia</option><option value="AW">Aruba</option><option value="AU">Australia</option><option value="AT">Austria</option><option value="AZ">Azerbaijan</option><option value="BS">Bahamas</option><option value="BH">Bahrain</option><option value="BD">Bangladesh</option><option value="BB">Barbados</option><option value="BY">Belarus</option><option value="BE">Belgium</option><option value="BZ">Belize</option><option value="BJ">Benin</option><option value="BM">Bermuda</option><option value="BT">Bhutan</option><option value="BO">Bolivia</option><option value="BA">Bosnia and Herzegovina</option><option value="BW">Botswana</option><option value="BV">Bouvet Island</option><option value="BR">Brazil</option><option value="IO">British Indian Ocean Territory</option><option value="VG">British Virgin Islands</option><option value="BN">Brunei</option><option value="BG">Bulgaria</option><option value="BF">Burkina Faso</option><option value="BI">Burundi</option><option value="KH">Cambodia</option><option value="CM">Cameroon</option><option value="CA">Canada</option><option value="CV">Cape Verde</option><option value="BQ">Caribbean Netherlands</option><option value="KY">Cayman Islands</option><option value="CF">Central African Republic</option><option value="TD">Chad</option><option value="CL">Chile</option><option value="CN">China</option><option value="CX">Christmas Island</option><option value="CC">Cocos (Keeling) Islands</option><option value="CO">Colombia</option><option value="KM">Comoros</option><option value="CG">Congo (Brazzaville)</option><option value="CD">Congo (Kinshasa)</option><option value="CK">Cook Islands</option><option value="CR">Costa Rica</option><option value="HR">Croatia</option><option value="CU">Cuba</option><option value="CW">Curaçao</option><option value="CY">Cyprus</option><option value="CZ">Czech Republic</option><option value="DK">Denmark</option><option value="DJ">Djibouti</option><option value="DM">Dominica</option><option value="DO">Dominican Republic</option><option value="EC">Ecuador</option><option value="EG">Egypt</option><option value="SV">El Salvador</option><option value="GQ">Equatorial Guinea</option><option value="ER">Eritrea</option><option value="EE">Estonia</option><option value="ET">Ethiopia</option><option value="FK">Falkland Islands</option><option value="FO">Faroe Islands</option><option value="FJ">Fiji</option><option value="FI">Finland</option><option value="FR">France</option><option value="GF">French Guiana</option><option value="PF">French Polynesia</option><option value="TF">French Southern Territories</option><option value="GA">Gabon</option><option value="GM">Gambia</option><option value="GE">Georgia</option><option value="DE">Germany</option><option value="GH">Ghana</option><option value="GI">Gibraltar</option><option value="GR">Greece</option><option value="GL">Greenland</option><option value="GD">Grenada</option><option value="GP">Guadeloupe</option><option value="GU">Guam</option><option value="GT">Guatemala</option><option value="GG">Guernsey</option><option value="GN">Guinea</option><option value="GW">Guinea-Bissau</option><option value="GY">Guyana</option><option value="HT">Haiti</option><option value="HM">Heard Island and McDonald Islands</option><option value="HN">Honduras</option><option value="HK">Hong Kong S.A.R., China</option><option value="HU">Hungary</option><option value="IS">Iceland</option><option value="IN">India</option><option value="ID">Indonesia</option><option value="IR">Iran</option><option value="IQ">Iraq</option><option value="IE">Ireland</option><option value="IM">Isle of Man</option><option value="IL">Israel</option><option value="IT">Italy</option><option value="CI">Ivory Coast</option><option value="JM">Jamaica</option><option value="JP">Japan</option><option value="JE">Jersey</option><option value="JO">Jordan</option><option value="KZ">Kazakhstan</option><option value="KE">Kenya</option><option value="KI">Kiribati</option><option value="KW">Kuwait</option><option value="KG">Kyrgyzstan</option><option value="LA">Laos</option><option value="LV">Latvia</option><option value="LB">Lebanon</option><option value="LS">Lesotho</option><option value="LR">Liberia</option><option value="LY">Libya</option><option value="LI">Liechtenstein</option><option value="LT">Lithuania</option><option value="LU">Luxembourg</option><option value="MO">Macao S.A.R., China</option><option value="MK">Macedonia</option><option value="MG">Madagascar</option><option value="MW">Malawi</option><option value="MY">Malaysia</option><option value="MV">Maldives</option><option value="ML">Mali</option><option value="MT">Malta</option><option value="MH">Marshall Islands</option><option value="MQ">Martinique</option><option value="MR">Mauritania</option><option value="MU">Mauritius</option><option value="YT">Mayotte</option><option value="MX">Mexico</option><option value="FM">Micronesia</option><option value="MD">Moldova</option><option value="MC">Monaco</option><option value="MN">Mongolia</option><option value="ME">Montenegro</option><option value="MS">Montserrat</option><option value="MA">Morocco</option><option value="MZ">Mozambique</option><option value="MM">Myanmar</option><option value="NA">Namibia</option><option value="NR">Nauru</option><option value="NP">Nepal</option><option value="NL">Netherlands</option><option value="AN">Netherlands Antilles</option><option value="NC">New Caledonia</option><option value="NZ">New Zealand</option><option value="NI">Nicaragua</option><option value="NE">Niger</option><option value="NG">Nigeria</option><option value="NU">Niue</option><option value="NF">Norfolk Island</option><option value="MP">Northern Mariana Islands</option><option value="KP">North Korea</option><option value="NO">Norway</option><option value="OM">Oman</option><option value="PK">Pakistan</option><option value="PW">Palau</option><option value="PS">Palestinian Territory</option><option value="PA">Panama</option><option value="PG">Papua New Guinea</option><option value="PY">Paraguay</option><option value="PE">Peru</option><option value="PH">Philippines</option><option value="PN">Pitcairn</option><option value="PL">Poland</option><option value="PT">Portugal</option><option value="PR">Puerto Rico</option><option value="QA">Qatar</option><option value="RE">Reunion</option><option value="RO">Romania</option><option value="RU">Russia</option><option value="RW">Rwanda</option><option value="BL">Saint Barthélemy</option><option value="SH">Saint Helena</option><option value="KN">Saint Kitts and Nevis</option><option value="LC">Saint Lucia</option><option value="MF">Saint Martin (French part)</option><option value="PM">Saint Pierre and Miquelon</option><option value="VC">Saint Vincent and the Grenadines</option><option value="WS">Samoa</option><option value="SM">San Marino</option><option value="ST">Sao Tome and Principe</option><option value="SA">Saudi Arabia</option><option value="SN">Senegal</option><option value="RS">Serbia</option><option value="SC">Seychelles</option><option value="SL">Sierra Leone</option><option value="SG">Singapore</option><option value="SX">Sint Maarten</option><option value="SK">Slovakia</option><option value="SI">Slovenia</option><option value="SB">Solomon Islands</option><option value="SO">Somalia</option><option value="ZA">South Africa</option><option value="GS">South Georgia and the South Sandwich Islands</option><option value="KR">South Korea</option><option value="SS">South Sudan</option><option value="ES">Spain</option><option value="LK">Sri Lanka</option><option value="SD">Sudan</option><option value="SR">Suriname</option><option value="SJ">Svalbard and Jan Mayen</option><option value="SZ">Swaziland</option><option value="SE">Sweden</option><option value="CH">Switzerland</option><option value="SY">Syria</option><option value="TW">Taiwan</option><option value="TJ">Tajikistan</option><option value="TZ">Tanzania</option><option value="TH">Thailand</option><option value="TL">Timor-Leste</option><option value="TG">Togo</option><option value="TK">Tokelau</option><option value="TO">Tonga</option><option value="TT">Trinidad and Tobago</option><option value="TN">Tunisia</option><option value="TR">Turkey</option><option value="TM">Turkmenistan</option><option value="TC">Turks and Caicos Islands</option><option value="TV">Tuvalu</option><option value="VI">U.S. Virgin Islands</option><option value="UG">Uganda</option><option value="UA">Ukraine</option><option value="AE">United Arab Emirates</option><option value="GB">United Kingdom</option><option value="US">United States</option><option value="UM">United States Minor Outlying Islands</option><option value="UY">Uruguay</option><option value="UZ">Uzbekistan</option><option value="VU">Vanuatu</option><option value="VA">Vatican</option><option value="VE">Venezuela</option><option value="VN">Vietnam</option><option value="WF">Wallis and Futuna</option><option value="EH">Western Sahara</option><option value="YE">Yemen</option><option value="ZM">Zambia</option><option value="ZW">Zimbabwe</option></select>
+www.astro.unige.ch/integral2019/user/register?destination=node%2F149-308-</div>
+www.astro.unige.ch/integral2019/user/register?destination=node%2F149-309-</div><div class="field-type-list-text field-name-field-abstract-type field-widget-options-select form-wrapper" id="edit-field-abstract-type"><div class="form-item form-type-select form-item-field-abstract-type-und">

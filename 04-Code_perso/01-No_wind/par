@@ -1,0 +1,16 @@
+ &physical
+   R    = 0.9d0
+   tau  = 2.d0
+   q    = 5.d0     ! mass ratio star / accretor
+   om0  = 0.9d0
+ /
+
+ ! &wind
+ !   Mdot = 0.d0
+ ! /
+
+ &integration
+   tmax   = 1.d8
+   CFL    = 1.d-3
+   accrcy = 1.d-3
+ /
